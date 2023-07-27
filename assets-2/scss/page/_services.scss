@@ -1,0 +1,392 @@
+/* ================================= */
+/* -------- Inner Banner CSS ------- */
+/* ================================= */
+#inner-banner{
+ background:linear-gradient(90deg, rgba(0,0,0, 0.7), rgba(0,0,0, 0.7)),url(../images/inner-banner-bg.jpg); 
+    -webkit-background-size:cover;
+    -o-background-size:cover;
+      height: 80vh;
+    background-size:cover;
+    // background-attachment: fixed;
+    // background-position: center center;
+    background-repeat:no-repeat;
+    border-bottom:7px solid #fb452b;
+    padding-top:165px;
+    padding-bottom:150px;
+  }
+
+ 
+//   #terminals-hero {
+//     height: 75vh;
+//     width: 100%;
+//     padding-top: 100px;
+//     background: linear-gradient(
+// 90deg
+// , rgba(41, 41, 61, 0.9), rgba(41, 41, 61, 0.9)), url(../assets/img/terminals/m8.jpg) center center fixed no-repeat;
+//     background-size: cover;
+// }
+  .inner-banner-detail{margin-top: 20px}
+  .inner-banner-detail h2 {
+    color: #fff;
+    font-size: 46px;
+    font-weight: bold;
+  }
+  .inner-banner-detail > p {
+    color: #fb452b;
+    padding-bottom:40px;
+  }
+  .inner-banner-detail a {
+    color: #fff;
+  }
+  .inner-banner-detail a:hover{
+    color: #fb452b;
+  }
+  .inner-banner-detail span {
+    margin:0 15px;
+  }
+  /* --- inner heading CSS --- */
+  .inner_heading > h2::after {
+    background: #fb2415;
+    bottom: 0;
+    content: "";
+    height: 3px;
+    left: 0;
+    position: absolute;
+    width: 165px;
+  }
+  .inner_heading > h2 {
+    color: #222222;
+    display: inline-block;
+    padding: 0 0 15px;
+    position: relative;
+    text-transform: capitalize;
+  }
+  .inner_heading > h2 > span{
+    color: #fb2415;
+  }
+  .inner_heading > p {
+    margin-bottom: 0;
+    text-transform: capitalize;
+  }
+  
+
+/* ================================= */
+/* --------- Services CSS -------- */
+/* ================================= */
+#services{
+	background: #edf3f8;
+}
+#services .heading > h2{
+  color: #022940;
+}
+#services_slider .item{
+  margin:15px;
+}
+#services_slider .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.services_img{
+  overflow: hidden;
+  position: relative;
+}
+.services_img img{
+  overflow: hidden;
+  position: unset;
+}
+.services_detail {
+  background: #fff;
+  padding: 30px 35px;
+}
+.services_detail > h3 {
+  font-size: 20px;
+  display: inline-block;
+  text-transform: uppercase;
+  color:#022940;
+}
+.services_detail > span {
+  color: #d1d1d1;
+  background:transparent;
+  font-size: 13px;
+  vertical-align: middle;
+  position: relative;
+  top: -4px;
+  border: 1px solid #d1d1d1;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  height: 31px;
+  width: 30px;
+  display: inline-block;
+  text-align: center;
+  line-height: 27px;
+  margin-right: 15px;
+}
+.services_detail > p {
+  padding: 15px 0;
+}
+.services_detail > a {
+  text-transform: uppercase;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 3px;
+}
+.services_box:hover .services_img img{
+  -webkit-transform: scale(1.15);
+  -moz-transform: scale(1.15);
+  -ms-transform: scale(1.15);
+  -o-transform: scale(1.15);
+  transform: scale(1.15);
+}
+.services_box:hover .services_detail span{
+  color: #fff;
+  background:#fb2415;
+  border: 1px solid #fb2415;
+}
+.services_box:hover .services_detail a{
+  color: #fb2415;
+  border-bottom: 1px solid #fb2415;
+}
+.owl-controls.clickable {
+  text-align: center;
+}
+.owl-prev, .owl-next{
+  border-bottom: 18px solid transparent;
+  border-top: 18px solid transparent;
+  font-size: 0;
+  height: 0;
+  line-height: 0;
+  width: 0;
+  display:inline-block;
+}
+.owl-prev {
+  border-right: 23px solid #022940;
+}
+.owl-next{
+  border-left: 23px solid #022940;
+  margin: 12px 12px;
+}
+.owl-prev i, .owl-next i{
+  color: #fff;
+  font-size: 20px;
+  position: relative;
+  top: -11px;
+}
+.owl-prev i{
+  left: 11px;
+}
+.owl-next i {
+  right: 16px;
+}
+.owl-next:hover{
+	border-left: 23px solid #fb2415;
+}
+.owl-prev:hover{
+	border-right: 23px solid #fb2415;
+}
+
+
+/* ================================= */
+/* ------ Parallaxe Image CSS ------ */
+/* ================================= */
+.parallax_image{
+	background:linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(../img/home/paralax.jpg);
+	background-repeat:no-repeat;
+	background-position:center center;
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	padding:200px 0;
+	background-attachment: fixed;
+	background-position: center center;
+}
+.parallax_detail {
+  position: relative;
+}
+.parallax_detail > span {
+  color: #fff;
+  text-transform: uppercase;
+  display:block;
+}
+.parallax_detail > span::before {
+  background: #7b7b7b;
+  content: "";
+  height: 1px;
+  left: 26%;
+  position: absolute;
+  top: 9px;
+  width: 225px;
+}
+.parallax_detail > span::after {
+  background: #7b7b7b;
+  content: "";
+  height: 1px;
+  position: absolute;
+  right:26%;
+  width:225px;
+  top: 9px;
+}
+.parallax_detail > h2 {
+  display: inline-block;
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+  letter-spacing: 7px;
+  border-bottom: 1px solid #7b7b7b;
+  padding-bottom: 12px;
+  text-transform:uppercase;
+}
+.parallax_detail > h3 {
+  display: block;
+  font-size: 30px;
+  color: #fff;
+  padding: 0 20%;
+  margin-top: 30px;
+  line-height: 41px;
+  letter-spacing: 4px;
+}
+/* -------- Tabs Css  ------- */
+/* ================================= */
+/* ------ Tabs Css CSS ------ */
+/* ================================= */
+.tabs {
+  background: #edf3f8;
+}
+.items > li > a {
+  background: #fff;
+  border: 1px solid #e5e4e4;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  color: #282e3a;
+  display: block;
+  font-size: 20px;
+  margin-bottom: 20px;
+  padding: 15px 20px;
+  position: relative;
+  text-decoration: none;
+}
+.items > li > a:after {
+	right:15px;
+}
+.items > li > a:hover, 
+.items > li > a.expanded {
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #fff;
+  text-decoration: none !important;
+  border:1px solid transparent;
+  outline:none;
+}
+.items .sub-items {
+	background: #fff;
+	display: none;
+	margin-bottom: 10px;
+	margin-top: -10px;
+	padding: 20px 16px;
+	border:1px solid #e5e4e4;
+	-webkit-border-radius:0 0 5px 5px;
+	border-radius:0 0 5px 5px;
+	border-top:none;
+}
+.items .sub-items p {
+  line-height: 26px;
+  padding: 8px 20px;
+}
+.tab_container {
+	padding:0;
+}
+.items > li > a::after, 
+.items > li > a::after, 
+.tab_drawer_heading::after {
+	content:url(../images/pluse.png);
+	display: inline-block;
+	position: absolute;
+	right: 20px;
+	top:18px;
+}
+.items > li > a.expanded::after, 
+.procedure_content .items > li > a.expanded::after, 
+.tab_drawer_heading.d_active::after {
+	content:url(../images/minas.png);
+}
+
+.faq .items > li > a {
+	background:transparent;
+	color: #282e3a;
+	display: block;
+	font-size:20px;
+	margin-bottom: 10px;
+	padding:15px 20px;
+	position:relative;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #d9d9d9;
+	text-decoration: none;
+}
+.faq .items > li > a:after {
+	right:15px;
+}
+.faq .items > li > a:hover, 
+.items > li > a.expanded {
+  -webkit-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #fff;
+  text-decoration: none !important;
+  border:1px solid transparent;
+  outline:none;
+}
+.faq .items .sub-items {
+	background: #fff;
+	display: none;
+	margin-bottom: 10px;
+	margin-top: -10px;
+	padding: 20px 16px;
+	border:1px solid #d9d9d9;
+	-webkit-border-radius:0 0 5px 5px;
+	border-radius:0 0 5px 5px;
+	border-top:none;
+}
+.faq .items {
+  padding-top: 30px;
+}
+.faq .items .sub-items p {
+  line-height: 26px;
+  padding: 8px 20px;
+}
+.items > li > a:hover, 
+.items > li > a.expanded {
+  background: #fb2415;
+}
+ .faq_box{
+  p.plist{
+    display: flex;
+    align-items: baseline;
+    line-height: 24px; padding: 6px 0px;
+  span{}
+  .fa{color: #fb2415; margin-right: 8px; }
+}
+}
+
+//==============================================================
+//===============================================================
+//               responsive                                  
+//==============================================================
+//================================================================
+
+@media (min-width: 320px) and (max-width: 500px) {
+
+
+
+
+  .inner-banner-detail > p {padding-bottom: 20px;}
+  .inner-banner-detail h2{
+                    font-size: 26px;
+                    width: 70%;
+                    margin: auto;text-align: center
+                    }
+
+
+}//end 320 - 500

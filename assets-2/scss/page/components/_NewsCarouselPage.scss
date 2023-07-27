@@ -1,0 +1,62 @@
+
+/*--------------------------------------------------------------
+# News Carousel Page
+--------------------------------------------------------------*/
+.news-carousel-page {
+    position: relative;
+    display: block;
+    padding: 120px 0 133px;
+  }
+  
+  .carousel-dot-style.owl-carousel .owl-stage-outer {
+    overflow: visible;
+  }
+  
+  .carousel-dot-style.owl-carousel .owl-item {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 500ms ease, visibility 500ms ease;
+  }
+  
+  .carousel-dot-style.owl-carousel .owl-item.active {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .carousel-dot-style.owl-carousel .owl-dots {
+    position: absolute;
+    bottom: -13px;
+    left: 0px;
+    right: 0;
+    text-align: center;
+    margin: 0 !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .carousel-dot-style.owl-carousel .owl-dots .owl-dot {
+    position: relative;
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background-color: rgba(var(--insur-base-rgb), 0.3);
+    margin: 0px 5px;
+    padding: 0px;
+    transition: all 100ms linear;
+    transition-delay: 0.1s;
+  }
+  
+  .carousel-dot-style.owl-carousel .owl-dot.active {
+    background-color: rgba(var(--insur-primary-rgb), 1);
+  }
+  
+  .carousel-dot-style.owl-carousel .owl-dot:focus {
+    outline: none;
+  }
+  
+  .carousel-dot-style.owl-carousel .owl-dots .owl-dot span {
+    display: none;
+  }
+  

@@ -1,0 +1,157 @@
+/*--------------------------------------------------------------
+# Download
+--------------------------------------------------------------*/
+.download {
+    position: relative;
+    display: block;
+    background-color: var(--insur-base);
+    padding: 120px 0 0;
+    overflow: hidden;
+    z-index: 1;
+  }
+  
+  .download-bg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -1px;
+    width: 828px;
+    mix-blend-mode: luminosity;
+    background-repeat: no-repeat;
+    background-position: top center;
+    opacity: 0.08;
+    z-index: -1;
+  }
+  
+  .download-shape-1 {
+    position: absolute;
+    top: -240px;
+    left: 0;
+  }
+  
+  .download-shape-1 img {
+    width: auto;
+  }
+  
+  .download-shape-2 {
+    position: absolute;
+    bottom: 87px;
+    left: 0;
+  }
+  
+  .download-shape-2 img {
+    width: auto;
+  }
+  
+  .download__left {
+    position: relative;
+    display: block;
+    margin-top: 9px;
+  }
+  
+  .download__sub-title {
+    font-size: 18px;
+    color: var(--insur-white);
+    letter-spacing: var(--insur-letter-spacing);
+  }
+  
+  .download__title {
+    font-size: 50px;
+    color: var(--insur-white);
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: var(--insur-letter-spacing);
+    margin-top: 7px;
+    margin-bottom: 47px;
+  }
+  
+  .download__apps {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .download__app-one {
+    position: relative;
+    display: block;
+    max-width: 215px;
+    width: 100%;
+  }
+  
+  .download__app-one>a {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: var(--insur-white);
+    border-radius: var(--insur-bdr-radius);
+    padding: 9px 40px 18px;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+  }
+  
+  .download__app-one:hover>a {
+    background-color: var(--insur-primary);
+  }
+  
+  .download__app-one>a>i {
+    font-size: 20px;
+    color: var(--insur-black);
+    position: relative;
+    top: 6px;
+  }
+  
+  .download__app-one>a>p {
+    font-size: 18px;
+    color: var(--insur-black);
+    font-weight: 700;
+    margin-left: 15px;
+    line-height: 20px;
+  }
+  
+  .download__app-one>a>p>span {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  
+  .download__app-one--two {
+    margin-left: 10px;
+  }
+  
+  .download__app-one--two>a {
+    background-color: var(--insur-black);
+  }
+  
+  .download__app-one--two>a>i {
+    color: var(--insur-white);
+  }
+  
+  .download__app-one--two>a>p {
+    color: var(--insur-white);
+  }
+  
+  .download__right {
+    position: relative;
+    display: block;
+    margin-left: 58px;
+  }
+  
+  .download__img {
+    position: relative;
+    display: block;
+    top: 1px;
+  }
+  
+  .download__img>img {
+    width: 100%;
+  }
+  
+  .download__badge {
+    position: absolute;
+    top: 10px;
+    left: -98px;
+  }
+  
+  .download__badge>img {
+    width: auto;
+  }

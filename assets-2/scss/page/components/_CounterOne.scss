@@ -1,0 +1,112 @@
+/*--------------------------------------------------------------
+# Counter One
+--------------------------------------------------------------*/
+.counter-one {
+  position: relative;
+  display: block;
+  // background-color: var(--insur-base);
+  padding: 79px 0 71px;
+}
+
+.counter-one-shape-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: .20;
+}
+
+.counter-one-shape-1 img {
+  width: auto;
+}
+
+.counter-one-shape-2 {
+  position: absolute;
+  bottom: -35px;
+  right: 0;
+  opacity: .20;
+}
+
+.counter-one-shape-2 img {
+  width: auto;
+}
+
+.counter-one__single {
+  position: relative;
+  display: block;
+}
+
+.counter-one__top {
+  position: relative;
+  display: flex;
+  margin-bottom: 13px;
+}
+
+.counter-one__icon {
+  position: relative;
+  display: block;
+}
+
+.counter-one__icon span {
+  position: relative;
+  display: flex;
+  font-size: 60px;
+  //color: var(--insur-primary);
+  transition: all 500ms linear;
+  transition-delay: 0.1s;
+  transform: scale(1);
+}
+
+.counter-one__single:hover .counter-one__icon span {
+  color: var(--insur-white);
+  transform: scale(.9);
+}
+
+.counter-one__count-box {
+  position: relative;
+  margin-left: 16px;
+  margin-top: 27px;
+}
+
+.counter-one__count-box:before {
+  position: absolute;
+  top: -26px;
+  left: 0;
+  height: 4px;
+  width: 40px;
+  border-radius: 2px;
+  content: "";
+  background-image: -moz-linear-gradient(0deg, rgb(242, 245, 249) 0%, rgb(12, 224, 255) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(242, 245, 249) 0%, rgb(12, 224, 255) 100%);
+  background-image: -ms-linear-gradient(0deg, rgb(242, 245, 249) 0%, rgb(12, 224, 255) 100%);
+}
+
+.counter-one__count-box-inner {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.counter-one__count-box-inner h3 {
+  font-size: 36px;
+  //color: var(--insur-white);
+  font-weight: 700;
+  line-height: 36px !important;
+  // font-family: var(--insur-font) !important;
+  letter-spacing: var(--insur-letter-spacing);
+}
+
+.counter-one__plus {
+  font-size: 36px;
+ // color: var(--insur-white);
+  font-weight: 700;
+  line-height: 36px !important;
+  font-family: var(--insur-font) !important;
+  letter-spacing: var(--insur-letter-spacing);
+}
+
+.counter-one__text {
+  font-size: 24px;
+  color: #06223f;
+  line-height: 34px;
+  letter-spacing: var(--insur-letter-spacing);
+}

@@ -1,0 +1,646 @@
+
+/* ============================================================================================================================== */
+                      /* ABOUT */
+/* ============================================================================================================================= */
+#about-hero{
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/about/about-hero.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 75vh;
+    width: 100%;
+    // display: flex;
+    // align-items: center; 
+    position: relative;
+    .container,.row,.col-md-12{
+        height: 100%;
+    }
+    
+    .inner-banner-detail{
+       width: 100%;
+        position: absolute;
+        top: 40%;
+        transform: translatey(-50%);
+        left: 2%;
+            // margin-top: 20px;
+            h5{
+                 font-size: 20px;
+                 width: 100%;
+                color: #fff;
+                opacity: .5;
+                margin-bottom: 10px
+                    
+            }
+        span.mis{
+            font-weight: 200;
+            line-height: 45px;
+            font-size: 50px;
+            display: block;
+            margin-left: 0
+        }
+        span.gol{
+            font-weight: 800;
+            line-height: 50px;
+            font-size: 50px;
+            // display: block;
+            margin-left: 0
+        }
+        }
+}
+#greensage-outsourcing-mission2{display: none}
+@media screen and (max-width: 900px) {
+   
+    #about-hero{
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/about/greensage-about-bg-600.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 75vh;
+    width: 100%;
+    // display: flex;
+    // align-items: center; 
+    position: relative;
+    .container,.row,.col-md-12{
+        height: 100%;
+    }
+    
+    .inner-banner-detail{
+       width: 100%;
+        position: absolute;
+        top: 40%;
+        transform: translatey(-50%);
+        left: 2%;
+            // margin-top: 20px;
+            h5{
+                 font-size: 20px;
+                 width: 100%;
+                color: #fff;
+                opacity: .5;
+                margin-bottom: 10px
+                    
+            }
+        span.mis{
+            font-weight: 200;
+            line-height: 35px;
+            font-size: 40px;
+            display: block;
+            margin-left: 0
+        }
+        span.gol{
+            font-weight: 800;
+            line-height: 30px;
+            font-size: 40px;
+            // display: block;
+            margin-left: 0
+        }
+        }
+}
+    
+}
+
+//////////////////////////////////////////////////////////////
+#greensage-outsourcing-mission{
+    // display: 
+    box-shadow: $box-shadow;
+    width:35%;
+    position: absolute;
+    right: 5%;
+    top: 95%;
+    transform: translatey(-70%);
+    background: $head-1;
+    .wrap{
+        padding: 20px 10px;
+        
+        .col-12{
+            margin-bottom: 20px;
+            h3{color:$bg-1;font-size: 18px;margin-bottom: 8px}
+            p{color:$bg-1}
+            &:last-child{
+                margin-bottom: 0px; 
+            }
+        }
+       
+    }
+}
+
+
+
+@media screen and (max-width: 890px) {
+ 
+    #greensage-outsourcing-mission{
+    // display: 
+    // box-shadow: $box-shadow;
+    width:30%;
+    // position: absolute;
+    right: 5%;
+    top: 105%;
+    transform: translatey(-70%);
+    // background: $head-1;
+    .wrap{
+        padding: 10px 0px;
+        
+        .col-12{
+            margin-bottom: 10px;
+            h3{
+                // color:$bg-1;
+                font-size: 15px;
+                margin-bottom: 0px
+            }
+            p{
+                // color:$bg-1;
+                line-height: 16px;font-size: 13px;
+            }
+            // &:last-child{
+            //     margin-bottom: 0px; 
+            // }
+        }
+       
+    }
+}
+
+
+}//end
+
+@media screen and (max-width: 690px) {
+ 
+    #greensage-outsourcing-mission{
+    display:none; 
+    }
+ #greensage-outsourcing-mission2{
+      background: $bg-3;
+    display:block; 
+     padding: 30px 0 20px;
+     .mission-vision{
+         .wrap{
+             width: 80%;
+             margin: auto;
+             margin-bottom: 20px;
+             text-align: center;
+             box-shadow: $box-shadow;padding: 
+                 20px;
+             .icon{
+                 i{font-size: 30px;color:$color-2;
+                     }
+             }
+             .content{
+                 h5{margin-bottom: 12px;font-size: 16px;color: $color-2} 
+             }
+         }
+     }
+    }
+
+}//end
+@media screen and (max-width: 500px) {
+ 
+  
+ #greensage-outsourcing-mission2{
+
+     .mission-vision{
+         .wrap{
+             width: 100%;
+             margin-bottom: 20px;
+             padding: 20px;
+             // .icon{
+             //     i{font-size: 30px;color:$color-2;
+             //         }
+             // }
+             .content{
+                 h5{margin-bottom: 5px;font-size: 16px;color: $color-2} 
+             }
+         }
+     }
+    }
+
+}//end
+
+@media screen and (max-width: 567px) {
+    #about-hero{
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/about/greensage-about-bg-500.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 40vh;
+    width: 100%;
+    display: flex;
+    align-items: flex-start; 
+    position: relative;
+        
+        .inner-banner-detail{
+       // width: 100%;
+       //  top: 40%;
+       //  transform: translatey(-50%);
+       //  left: 2%;
+            // margin-top: 20px;
+            h5{
+                 font-size: 15px;
+                margin-bottom: 7px
+                    
+            }
+            h2{
+                line-height: 26px;
+                font-size: 2px;
+                width: 100%;
+                margin: auto;
+                text-align: left;
+            }
+
+        span.mis{
+            line-height: 17px;
+            font-size: 20px;
+        }
+        span.gol{
+            line-height: 30px;
+            font-size: 25px;
+        }
+        }
+    }
+}
+
+@media screen and (max-width: 567px) {
+ 
+    #greensage-outsourcing-mission2{
+   
+}
+
+
+}//end
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+#greensage-outsourcing-core-values{
+    padding: 100px 0px 60px;
+    background: $bg-1;
+    .title{
+        margin-left: 15px;
+        margin-bottom: 20px;
+        h4{color:$color-3;font-size: 25px;}
+    }
+    .value-wrap{
+        margin-bottom: 15px;
+        .icon{
+            margin-bottom: 5px;
+            .demo-icon {color:$color-2;font-size: 35px}
+        }
+        h5{margin-bottom: 10px;color:$color-3;}
+        p{margin-bottom: 5px;font-size: 14px}
+    }
+}
+
+@media screen and (max-width: 767px) {
+ 
+    #greensage-outsourcing-core-values{
+     padding: 40px 0px 40px;
+     // background: $bg-1;
+     .title{
+         display: block;
+         width: 100%;
+         margin-left: 0px;
+         margin-bottom: 20px;
+         h4{
+             // color:$color-3;
+             font-size: 25px;
+             text-align: center;
+         }
+     }
+     .value-wrap{
+         box-shadow: $box-shadow;
+         padding: 20px 15px;
+         text-align: center;
+         width: 80%;margin: auto;
+         margin-bottom: 15px;
+         .icon{
+             text-align: center;
+             // margin-bottom: 5px;
+             .demo-icon {color:$color-2;font-size: 35px}
+         }
+         h5{margin-bottom: 10px;color:$color-3;}
+         p{margin-bottom: 5px;font-size: 14px}
+     }
+ }
+ }//end
+
+@media screen and (max-width: 550px) {
+ 
+    #greensage-outsourcing-core-values{
+    padding: 30px 0px 10px;
+    // background: $bg-1;
+    .title{
+        // display: block;
+        // width: 100%;
+        // margin-left: 0px;
+        // margin-bottom: 20px;
+        h4{
+            // color:$color-3;
+            font-size: 20px;
+            // text-align: center;
+        }
+    }
+    .value-wrap{
+        // box-shadow: $box-shadow;
+        padding: 10px 15px;
+        // text-align: center;
+        width: 100%;
+        // margin: auto;
+        // margin-bottom: 15px;
+        .icon{
+            // text-align: center;
+            // margin-bottom: 5px;
+            // .demo-icon {color:$color-2;font-size: 35px}
+        }
+        // h5{margin-bottom: 10px;color:$color-3;}
+        // p{margin-bottom: 5px;font-size: 14px}
+    }
+}
+
+}//end
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+#greensage-outsoucing-about-section{
+    padding: 80px 0 60px;
+    .img{
+        img{
+            max-width: 100%;
+            height: auto;
+        }
+    }
+    .content{
+        margin-top: 25px;
+        &-wrap{
+            h3{color: $color-3; margin-bottom: 10px;font-size: 29px} 
+            p{margin-bottom: 10px;line-height: 23px;text-align: justify}
+        }
+    }
+}
+@media screen and (max-width: 767px) {
+ 
+   #greensage-outsoucing-about-section{
+    padding: 60px 0 50px;
+    .img{
+        img{
+            margin: auto;
+            display: block;
+            max-width: 100%;
+            height: auto;
+        }
+    }
+    .content{
+        margin-top: 20px;
+        &-wrap{
+            h3{
+                // color: $color-3;
+                margin-bottom: 10px;
+                font-size: 25px;
+                text-align: center
+                    
+            } 
+            p{margin-bottom: 10px;line-height: 23px;text-align: justify}
+        }
+    }
+}
+}//end
+
+@media screen and (max-width: 550px) {
+  #greensage-outsoucing-about-section{
+    padding: 30px 0 10px;
+    }
+}//end
+
+////////////////////////////////////////////////////////////////////////////
+#services2.mobile{display: none}
+#services{
+
+    .col-md-6.left{//swapped to right// note that this is handling right
+        padding: 0;
+        background: $color-4;
+        .content{
+            width:60%;
+            margin: auto 0 auto 90px;
+            .content-inner{
+                padding: 60px 0;
+                    h3{font-weight: 300;font-family: Oswald, sans-serif !important;
+                        line-height: 1.1;font-size: 3rem;color:white}
+                    .underscore{width: 43px;
+                        height: 3px;
+                        background: $color-1;
+                        margin: 20px auto 0 0;
+                }
+                    p{
+
+                        font-size: 1rem;
+                        margin: 20px 0 0;
+                        font-weight: 400;
+                        font-family: 'Montserrat', sans-serif!important;
+                        // text-transform: ;
+                        line-height: 1.4;
+                        color: #b3b3b3 !important;
+                     }
+                        a{
+                            letter-spacing: 1px;
+                            font-size: 1rem;
+                            line-height: 1.4;
+                            background-color: $color-1;
+                            color: #fff;
+                            text-align: center;
+                            padding: 10px 30px;
+                            border-radius: 0;
+                            text-decoration: none;
+                            margin-top: 20px;
+                            display: inline-block;
+
+                }
+            }
+
+        }
+
+
+    }
+    .col-md-6.right{//swapped to right// note that this is handling left
+        // padding: 0;
+        // height: 60vh;
+       
+        // background: #eeeeee;
+        // position: relative;
+        padding: 0;
+        background: #eeeeee;
+        display: flex;
+        align-items: center;
+        .right-wrap.wrap{
+            // width: 113%;
+            // min-height: 70%;
+            // position: absolute;
+            // left: -20%;
+            // top: 50%;
+            // transform: translatey(-50%);
+            // background: white;
+            //---------------
+            width: 90%;
+            /* min-height: 70%; */
+            /* position: absolute; */
+            /* left: -20%; */
+            /* top: 50%; */
+            /* transform: translatey(-50%); */
+            background: white;
+            margin: auto;
+
+            .col-md-12{
+                h5{text-align: center;
+                    font-weight: 900!important;
+                    color:$color-3;
+                    margin-top: 10px}
+            }
+            .col-md-4{padding: 8px}
+            
+            .service-main{
+                text-align: center;
+                padding: 10px 15px 10px;
+                
+                h5{ color:$color-2;   font-weight: 600;line-height: 1.1;
+    font-size: 14px;font-family: Montserrat,sans-serif;
+                    margin-bottom: 8px}
+                p{font-size: 14px;line-height: 18px;color: #808080 !important;
+                  
+                }
+
+
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 766px) and (min-width: 300px) {
+    #services.desktop{display: none}
+    #services2.mobile{display: block}
+
+    #services2.mobile{
+    .col-md-6.top{
+        padding: 15px;
+        background: $color-4;
+        .content{
+            width:100%;
+            margin: auto 0 auto 0px;
+            .content-inner{
+                padding: 20px 0;
+                    h3{font-weight: 300;text-align: center;
+                        font-family: Oswald, sans-serif !important;
+                        line-height: 1.2;font-size: 27px;color:white}
+                    .underscore{width: 43px;
+                        height: 3px;
+                        background: $color-1;
+                        margin: 10px auto 0 auto;
+                        text-align: center;
+                }
+                    p{
+
+                        font-size: .9rem;
+                        margin: 20px 0 0;
+                            font-weight: 400;
+                        font-family: 'Montserrat', sans-serif!important;
+                        // text-transform: ;
+                        text-align: center;
+                        line-height: 20px;color: #b3b3b3 !important;}
+                    a{
+                            letter-spacing: 1px;
+                        font-size: .9rem;
+                        line-height: 20px;
+                        
+                            background-color: $color-1;
+                                color: $bg-3;font-weight: 600;
+                        text-align: center;
+                        padding: 10px 10px;
+                    border-radius: 0;text-decoration: none;
+                        margin: 20px auto 0 auto ;
+                        display: block;
+                        width: 40%
+
+                }
+            }
+
+        }
+
+
+    }
+    .col-md-6.down{
+        padding: 0;
+        // height: 80vh;
+        background: #eeeeee;
+        
+        // position: static;
+
+        .wrap{
+            width: 100%;
+            // position: static;
+            background: white;
+            .service-main{
+                text-align: center;
+                padding: 20px;
+                // .logo{
+                //     margin-bottom: 15px
+                // }
+                h5{    
+                    font-weight: 700;
+                    color:$color-3;
+                    line-height: 1.2;
+    font-size: 1rem;font-family: Montserrat,sans-serif;
+                    margin-bottom: 8px}
+                p{font-size: 15px;line-height: 20px;color: #808080 !important;
+                    a{color:#6b6161; font-weight: 700;font-size: 14px }
+                }
+
+
+            }
+        }
+    }
+    }
+
+}
+
+#llc-valkur-about{
+    padding: 70px 0 80px;
+   .wrap{
+   
+           .title{
+               margin-bottom: 12px;
+               h4{
+                 color:$color-4;  
+                   font-size: 40px;
+                    font-weight: 100;
+                   span{
+                       padding-left: 10px;
+                        font-weight: 900;
+                      
+                   }
+               }
+              
+       } //title
+       .content{
+           p{margin-bottom: 10px;}
+       }
+   }//wrap
+   .about-calltoaction{ 
+       margin-top: 20px;
+       background: rgb(229,243,243);
+       padding:20px 10px;
+       h5{margin-bottom: 5px;font-size: 20px;
+          font-weight: 500;
+       }
+       .caption{
+           font-weight: 600;
+           opacity: 1;
+           margin-top: 10px;
+           a{color:volor-5}
+       }
+           
+   }
+}
+
+@media screen and (max-width: 767px) {
+
+}//end
+
+@media screen and (max-width: 550px) {
+
+}//end
+
