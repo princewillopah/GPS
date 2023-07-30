@@ -29,7 +29,7 @@
                             <div class="footer-header-two pages">
                                 <h6 class="title">Menu</h6>
                                 <div class="pages">
-                                    <ul>
+                                    <ul>-
                                         <li><a class=" <?php if ($page == 'home') { echo 'active'; } ?>" href="index.php">Home</a></li>
                                         <li><a class=" <?php if ($page == 'about') { echo 'active'; } ?>" href="about.php">About Us</a></li>
                                         <li><a class=" <?php if ($page == 'storage') { echo 'active'; } ?>" href="storage.php">Storage</a></li>

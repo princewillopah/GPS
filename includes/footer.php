@@ -87,7 +87,7 @@
                                         <i class="fa-sharp fa-solid fa-right"></i>
                                         Contact Us
                                     </a>
-        
+
                                 </div>
                             </div>
                         </div>
