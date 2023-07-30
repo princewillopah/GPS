@@ -1,0 +1,112 @@
+/*--------------------------------------------------------------
+# Tracking
+--------------------------------------------------------------*/
+.tracking {
+  position: relative;
+  display: block;
+}
+
+.tracking__inner {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 57px 80px 57px;
+  background-color: var(--insur-base);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  overflow: hidden;
+}
+
+.tracking-shape-1 {
+  position: absolute;
+  bottom: 0;
+  left: -55px;
+}
+
+.tracking-shape-1 img {
+  width: auto;
+}
+
+.tracking-shape-2 {
+  position: absolute;
+  top: 50px;
+  left: -100px;
+}
+
+.tracking-shape-2 img {
+  width: auto;
+}
+
+.tracking-shape-3 {
+  position: absolute;
+  top: -15px;
+  right: -192px;
+  z-index: 2;
+}
+
+.tracking-shape-3 img {
+  width: auto;
+}
+
+.tracking-shape-4 {
+  position: absolute;
+  top: 50px;
+  right: -55px;
+}
+
+.tracking-shape-4 img {
+  width: auto;
+}
+
+.tracking__left {
+  position: relative;
+  display: flex;
+}
+
+.tracking__icon {
+  position: relative;
+  display: flex;
+}
+
+.tracking__icon span {
+  font-size: 65px;
+  color: var(--insur-white);
+  position: relative;
+  display: inline-block;
+}
+
+.tracking__content {
+  position: relative;
+  margin-left: 30px;
+  top: -7px;
+}
+
+.tracking__sub-title {
+  font-size: 14px;
+  color: #c2dfff;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  line-height: 24px;
+  font-weight: 500;
+}
+
+.tracking__title {
+  font-size: 36px;
+  color: var(--insur-white);
+  font-weight: 700;
+  letter-spacing: var(--insur-letter-spacing);
+  line-height: 47px;
+}
+
+.tracking__btn-box {
+  position: relative;
+  display: block;
+  z-index: 2;
+}
+
+.tracking__btn {
+  background-color: var(--insur-white);
+  color: var(--insur-black);
+}
+

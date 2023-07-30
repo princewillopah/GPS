@@ -1,0 +1,118 @@
+
+
+/*--------------------------------------------------------------
+## Comments
+--------------------------------------------------------------*/
+.comment-one__title,
+.comment-form__title {
+  margin: 0;
+  color: var(--insur-black);
+  font-size: 30px;
+  margin-bottom: 52px;
+  font-weight: 700;
+  letter-spacing: var(--insur-letter-spacing);
+}
+
+.comment-one__single {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border-bottom: 1px solid var(--insur-bdr-color);
+  padding-bottom: 60px;
+  margin-bottom: 60px;
+}
+
+.comment-one__content {
+  position: relative;
+  margin-left: 45px;
+}
+
+.comment-one__content h3 {
+  margin: 0;
+  font-size: 20px;
+  color: var(--insur-black);
+  margin-bottom: 26px;
+  font-weight: 700;
+  letter-spacing: var(--insur-letter-spacing);
+}
+
+.comment-one__content p {
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 500;
+  letter-spacing: var(--insur-letter-spacing);
+}
+
+.comment-one__btn {
+  padding: 7px 30px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: var(--insur-extra);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--insur-gray);
+}
+
+.comment-one__image {
+  position: relative;
+  display: block;
+  border-radius: 50%;
+}
+
+.comment-one__image img {
+  border-radius: 50%;
+}
+
+.comment-form .comment-form__title {
+  margin-top: -7px;
+}
+
+.comment-one__form .row {
+  --bs-gutter-x: 20px;
+}
+
+.comment-form__input-box {
+  position: relative;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.comment-form__input-box input[type="text"],
+.comment-form__input-box input[type="email"] {
+  height: 60px;
+  width: 100%;
+  border: none;
+  background-color: var(--insur-extra);
+  padding-left: 30px;
+  padding-right: 30px;
+  outline: none;
+  font-size: 14px;
+  color: var(--insur-gray);
+  display: block;
+  border-radius: var(--insur-bdr-radius);
+  font-weight: 500;
+  letter-spacing: var(--insur-letter-spacing);
+}
+
+.comment-form__input-box textarea {
+  font-size: 14px;
+  color: var(--insur-gray);
+  height: 180px;
+  width: 100%;
+  background-color: var(--insur-extra);
+  padding: 15px 30px 30px;
+  border: none;
+  border-radius: var(--insur-bdr-radius);
+  outline: none;
+  margin-bottom: 0px;
+  font-weight: 500;
+}
+
+.comment-form__btn {
+  border: none;
+}
+
+.comment-form__input-box.text-message-box {
+  height: 180px;
+}

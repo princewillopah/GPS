@@ -1,0 +1,293 @@
+/*--------------------------------------------------------------
+# We Provide
+--------------------------------------------------------------*/
+.we-provide {
+    position: relative;
+    display: block;
+    background-color: var(--insur-extra);
+    padding: 120px 0 120px;
+    z-index: 1;
+  }
+  
+  .we-provide-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    mix-blend-mode: luminosity;
+    opacity: .20;
+    z-index: -1;
+  }
+  
+  .we-provide .section-sub-title-box {
+    margin-left: 0;
+  }
+  
+  .we-provide__tab {
+    position: relative;
+    display: block;
+  }
+  
+  .we-provide__tab-box {
+    position: relative;
+    display: block;
+    z-index: 2;
+  }
+  
+  .we-provide__tab-btn-box {
+    position: relative;
+    display: block;
+    margin-right: -30px;
+  }
+  
+  .we-provide__tab-box .tab-buttons {
+    position: relative;
+    display: block;
+    background-color: var(--insur-white);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-right: 18px;
+    z-index: 1;
+  }
+  
+  .we-provide__tab-box .tab-buttons:before {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    content: "";
+    width: 6px;
+    background-color: var(--insur-bdr-color);
+    z-index: -1;
+  }
+  
+  .we-provide__tab-box .tab-buttons .tab-btn {
+    position: relative;
+    display: block;
+    border-bottom: 2px solid var(--insur-bdr-color);
+  }
+  
+  .we-provide__tab-box .tab-buttons .tab-btn.active-btn {
+    border-bottom: 2px solid transparent;
+  }
+  
+  .we-provide__tab-box .tab-buttons .tab-btn:last-child {
+    border-bottom: 0;
+  }
+  
+  .we-provide__tab-box .tab-buttons .tab-btn+.tab-btn {
+    margin-left: 0px;
+  }
+  
+  .we-provide__tab-box .tab-buttons .tab-btn span {
+    position: relative;
+    display: block;
+    -webkit-transition: all 200ms linear;
+    transition: all 200ms linear;
+    -webkit-transition-delay: 0.1s;
+    transition-delay: 0.1s;
+    font-size: 18px;
+    color: var(--insur-black);
+    font-weight: 700;
+    letter-spacing: var(--insur-letter-spacing);
+    cursor: pointer;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    z-index: 1;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-left: 47px;
+    max-width: 282px;
+    width: 100%;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    z-index: 1;
+  }
+  
+  .we-provide__tab-box .tab-buttons .tab-btn.active-btn span {
+    color: var(--insur-white);
+  }
+  
+  .we-provide__tab-box .tab-buttons .tab-btn span:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    content: "";
+    background-color: var(--insur-black);
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    z-index: -1;
+  }
+  
+  .we-provide__tab-box .tab-buttons .tab-btn.active-btn span:before {
+    height: 100%;
+  }
+  
+  .we-provide__tab-box .tab-buttons .tab-btn span:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 6px;
+    content: "";
+    background-color: var(--insur-primary);
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    transform: scaleY(0);
+    z-index: -1;
+  }
+  
+  .we-provide__tab-box .tab-buttons .tab-btn.active-btn span:after {
+    transform: scaleY(1);
+  }
+  
+  .we-provide__tab-main-content {
+    position: relative;
+    display: block;
+    margin-left: 30px;
+  }
+  
+  .we-provide__tab-box .tabs-content {
+    position: relative;
+    display: block;
+  }
+  
+  .we-provide__tab-box .tabs-content .tab {
+    position: relative;
+    display: none;
+    -webkit-transform: translateY(35px);
+    transform: translateY(35px);
+    -webkit-transition: all 600ms ease;
+    transition: all 600ms ease;
+    z-index: 10;
+  }
+  
+  .we-provide__tab-box .tabs-content .tab.active-tab {
+    display: block;
+    margin-top: 0px;
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px);
+  }
+  
+  .we-provide__tab-main-content-inner {
+    position: relative;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.05);
+    border-radius: var(--insur-bdr-radius);
+    padding-left: 60px;
+    padding-right: 50px;
+    padding-top: 49px;
+    padding-bottom: 49px;
+    z-index: 1;
+  }
+  
+  .we-provide-shape-1 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    opacity: .10;
+    z-index: -1;
+  }
+  
+  .we-provide-shape-1 img {
+    width: auto;
+  }
+  
+  .we-provide__tab-main-content-left {
+    position: relative;
+    display: block;
+    max-width: 396px;
+    width: 100%;
+  }
+  
+  .we-provide__tab-main-content-icon {
+    position: relative;
+    display: block;
+  }
+  
+  .we-provide__tab-main-content-icon span {
+    position: relative;
+    display: inline-block;
+    font-size: 64px;
+    color: var(--insur-base);
+  }
+  
+  .we-provide__tab-main-content-title {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: var(--insur-letter-spacing);
+    margin-top: 15px;
+    margin-bottom: 13px;
+  }
+  
+  .we-provide__tab-main-content-text {
+    line-height: 28px;
+    letter-spacing: var(--insur-letter-spacing);
+  }
+  
+  .we-provide__tab-main-content-points {
+    position: relative;
+    display: block;
+    margin-top: 16px;
+  }
+  
+  .we-provide__tab-main-content-points li {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .we-provide__tab-main-content-points li+li {
+    margin-top: 8px;
+  }
+  
+  .we-provide__tab-main-content-points li .icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 16px;
+    width: 16px;
+    background-color: var(--insur-primary);
+    font-size: 9px;
+    color: var(--insur-white);
+    border-radius: 50%;
+  }
+  
+  .we-provide__tab-main-content-points li .text {
+    margin-left: 10px;
+  }
+  
+  .we-provide__tab-main-content-points li .text p {
+    font-size: 18px;
+    color: var(--insur-black);
+    font-weight: 700;
+  }
+  
+  .we-provide__tab-main-content-right {
+    position: relative;
+    display: block;
+    margin-left: 64px;
+  }
+  
+  .we-provide__tab-main-content-right-img {
+    position: relative;
+    display: block;
+  }
+  
+  .we-provide__tab-main-content-right-img img {
+    width: auto;
+    border-radius: var(--insur-bdr-radius);
+  }
+  

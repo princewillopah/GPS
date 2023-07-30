@@ -7,7 +7,7 @@
                     <!-- footer top -->
                     <div class="footer-top-wrapper  ptb--80">
                         <a href="#" class="logo-area" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                            <img src="assets/images/logo/02.png" alt="blog-images">
+                            <img src="assets/images/_others/logo/logo1x.svg" alt="blog-images">
                         </a>
                         <h4 class="title" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
                             Subscribe Our Newsletter <br>
@@ -35,7 +35,7 @@
                                     Centric aplications productize before front end vortals visualize front end is
                                     results and value added
                                 </p>
-                                <div class="social-wrapper-one">
+                                <!-- <div class="social-wrapper-one">
                                     <ul>
                                         <li>
                                             <a href="#">
@@ -58,38 +58,61 @@
                                             </a>
                                         </li>
                                     </ul>
+                                </div> -->
+                            </div>
+                        </div>
+                        <div class="single-footer-inner" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
+                            <div class="body">
+                                <h6 class="footer-title">
+                                    Menu
+                                </h6>
+                                <div class="use-full-link-wrapper">
+                                     <a href="index.php" class="single  <?php if ($page == 'home') { echo 'current'; } ?>">
+                                        <i class="fa-sharp fa-solid fa-right"></i>
+                                        Home
+                                    </a>
+                                    <a href="about.php" class="single  <?php if ($page == 'about') { echo 'current'; } ?>">
+                                        <i class="fa-sharp fa-solid fa-right"></i>
+                                        About Us
+                                    </a>
+                                    <a href="services.php" class="single  <?php if ($page == 'rail') { echo 'current'; } ?>">
+                                        <i class="fa-sharp fa-solid fa-right"></i>
+                                        Our Services
+                                    </a>
+                                    <a href="quality-and-safety.php" class="single <?php if ($page == 'seq') { echo 'current'; } ?>">
+                                        <i class="fa-sharp fa-solid fa-right"></i>
+                                        Safety and Quality
+                                    </a>
+                                    <a href="contact.php" class="single <?php if ($page == 'contact') { echo 'current'; } ?>">
+                                        <i class="fa-sharp fa-solid fa-right"></i>
+                                        Contact Us
+                                    </a>
+        
                                 </div>
                             </div>
                         </div>
                         <div class="single-footer-inner" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
                             <div class="body">
                                 <h6 class="footer-title">
-                                    Useful Links
+                                    Services
                                 </h6>
                                 <div class="use-full-link-wrapper">
-                                    <a href="about.html" class="single">
+                                    <a href="shipping.php" class="single <?php if ($page == 'shipping') { echo 'current'; } ?>">
                                         <i class="fa-sharp fa-solid fa-right"></i>
-                                        About Us
+                                        Shipping
                                     </a>
-                                    <a href="#" class="single">
+                                    <a href="rail.php" class="single <?php if ($page == 'rail') { echo 'current'; } ?> ">
                                         <i class="fa-sharp fa-solid fa-right"></i>
-                                        Our Gallery
+                                       Rail
                                     </a>
-                                    <a href="service.html" class="single">
+                                    <a href="storage.php" class="single <?php if ($page == 'storage') { echo 'current'; } ?>">
                                         <i class="fa-sharp fa-solid fa-right"></i>
-                                        Our Services
-                                    </a>
-                                    <a href="team.html" class="single">
-                                        <i class="fa-sharp fa-solid fa-right"></i>
-                                        Our Team
-                                    </a>
-                                    <a href="contact.html" class="single">
-                                        <i class="fa-sharp fa-solid fa-right"></i>
-                                        Contact Us
+                                        Storage
                                     </a>
                                 </div>
                             </div>
                         </div>
+
                         <div class="single-footer-inner" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                             <div class="body">
                                 <h6 class="footer-title">
@@ -132,7 +155,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="single-footer-inner" data-sal="slide-up" data-sal-delay="750" data-sal-duration="800">
+                        <!-- <div class="single-footer-inner" data-sal="slide-up" data-sal-delay="750" data-sal-duration="800">
                             <div class="body">
                                 <h6 class="footer-title">
                                     Popular Posts
@@ -172,7 +195,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

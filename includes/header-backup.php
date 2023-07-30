@@ -207,10 +207,10 @@
                                 <!-- nav-area end -->
                                 <!-- header style two End -->
                                 <div class="btn-right">
-                                <ul>
-  <li><a href="#" onclick="changeLanguage('en')">English</a></li>
-  <li><a href="#" onclick="changeLanguage('fr')">Français</a></li>
-</ul>
+                                     <ul>
+                                            <li><a href="#" onclick="changeLanguage('en')">English</a></li>
+                                            <li><a href="#" onclick="changeLanguage('fr')">Français</a></li>
+                                    </ul>
                                     <!-- <div class="gtranslate_wrapper"></div> -->
                                     <div class="flag">
                                             <!-- <br /><select onchange="doGTranslate(this);"><option value="">Select Language</option><option value="en|en">English</option><option value="en|ru">Russian</option></select><div id="google_translate_element2"></div> -->

@@ -1,0 +1,159 @@
+/*--------------------------------------------------------------
+# Contact Page
+--------------------------------------------------------------*/
+.contact-page {
+    position: relative;
+    display: block;
+    padding: 120px 0 120px;
+  }
+  
+  .contact-page__left {
+    position: relative;
+    display: block;
+  }
+  
+  .contact-page__left .section-title {
+    margin-bottom: 43px;
+  }
+  
+  .contact-page__call-email {
+    position: relative;
+    display: block;
+    padding-left: 70px;
+  }
+  
+  .contact-page__call-icon {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    border: 2px solid var(--insur-bdr-color);
+    border-radius: 50%;
+    color: var(--insur-primary);
+    font-size: 19px;
+    top: 5px;
+    left: 0;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+  }
+  
+  .contact-page__call-icon:hover {
+    background-color: var(--insur-base);
+    border: 2px solid var(--insur-base);
+    color: var(--insur-white);
+  }
+  
+  .contact-page__call-email-content {
+    position: relative;
+    display: block;
+  }
+  
+  .contact-page__call-email-content h4 {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: var(--insur-letter-spacing);
+  }
+  
+  .contact-page__call-number {
+    position: relative;
+    display: block;
+    color: var(--insur-base);
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+  }
+  
+  .contact-page__call-number:hover {
+    color: var(--insur-primary);
+  }
+  
+  .contact-page__email {
+    position: relative;
+    display: block;
+    color: var(--insur-base);
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+  }
+  
+  .contact-page__email:hover {
+    color: var(--insur-primary);
+  }
+  
+  .contact-page__location-text {
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: var(--insur-letter-spacing);
+    font-weight: 500;
+    padding-top: 36px;
+  }
+  
+  .contact-page__right {
+    position: relative;
+    display: block;
+  }
+  
+  .contact-page__form {
+    position: relative;
+    display: block;
+  }
+
+
+  
+/*--------------------------------------------------------------
+# Contact Page two
+--------------------------------------------------------------*/
+.contact-page--two {
+  background-color: var(--insur-extra);
+  overflow: hidden;
+  z-index: 1;
+}
+
+.contact-page-two-shape-1 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.02;
+  z-index: -1;
+}
+
+.contact-page-two-shape-2 {
+  position: absolute;
+  top: -165px;
+  left: 0;
+  right: 0;
+  height: 414px;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  mix-blend-mode: luminosity;
+  opacity: .15;
+  z-index: -1;
+}
+
+.contact-page--two .contact-page__call-icon {
+  background-color: var(--insur-white);
+}
+
+.contact-page--two .contact-page__call-icon:hover {
+  background-color: var(--insur-base);
+  border: 2px solid var(--insur-base);
+  color: var(--insur-white);
+}
+
+.contact-page--two .comment-form__input-box input[type="text"],
+.contact-page--two .comment-form__input-box input[type="email"] {
+  background-color: var(--insur-white);
+}
+
+.contact-page--two .comment-form__input-box textarea {
+  background-color: var(--insur-white);
+}
+  
+  

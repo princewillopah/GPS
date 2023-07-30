@@ -1,0 +1,110 @@
+/*--------------------------------------------------------------
+# Home Showcase
+--------------------------------------------------------------*/
+.home-showcase {
+    margin-top: -31px;
+    margin-bottom: -31px;
+  }
+  
+  .home-showcase__inner {
+    background-color: #fff;
+    padding: 40px 40px 34px;
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
+    border-radius: var(--insur-bdr-radius);
+  }
+  
+  .home-showcase .row {
+    --bs-gutter-x: 42px;
+    --bs-gutter-y: 20px;
+  }
+  
+  .home-showcase__image {
+    position: relative;
+    background-color: var(--insur-base);
+    overflow: hidden;
+    border-radius: 10px;
+  }
+  
+  .home-showcase__image>img {
+    width: 100%;
+    border-radius: 10px;
+    -webkit-transition: 500ms ease;
+    transition: 500ms ease;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  
+  .home-showcase__image:hover>img {
+    opacity: 0.75;
+  }
+  
+  .home-showcase__image:hover .home-showcase__buttons {
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .home-showcase__buttons {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-transform: scale(1, 0);
+    transform: scale(1, 0);
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transform-origin: bottom center;
+    transform-origin: bottom center;
+    -webkit-transition: 500ms ease;
+    transition: 500ms ease;
+  }
+  
+  .home-showcase__buttons__item {
+    padding: 10px 20px;
+    width: 150px;
+    text-align: center;
+  }
+  
+  .home-showcase__buttons__item+.home-showcase__buttons__item {
+    margin-top: 10px;
+  }
+  
+  .home-showcase__title {
+    margin: 0;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--insur-black);
+    margin-top: 16px;
+  }
+  
+  .mobile-nav__wrapper .home-showcase .row [class*=col-] {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+  }
+  
+  .mobile-nav__wrapper .home-showcase__inner {
+    padding: 15px 0px;
+    background-color: rgba(0, 0, 0, 0);
+  }
+  
+  .mobile-nav__wrapper .home-showcase__title {
+    color: var(--insur-white, #ffffff);
+  }
+  

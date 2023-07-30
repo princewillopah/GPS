@@ -82,7 +82,7 @@
         // All swiper js
         swiperJs: function () {
             $(document).ready(function () {
-                var menu = ['Design and Build', 'Roof Remodeling', 'Bridge Remodeling']
+                var menu = ['Shipping', 'Rail', 'Storage']
                 var mySwiper = new Swiper ('.swiper-container', {
                     // If we need pagination
                     effect: 'slide',

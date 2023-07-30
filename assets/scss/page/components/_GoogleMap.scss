@@ -1,0 +1,38 @@
+/*--------------------------------------------------------------
+# Google Map
+--------------------------------------------------------------*/
+.google-map {
+    position: relative;
+    display: block;
+    background-color: var(--insur-extra);
+  }
+  
+  .google-map__one {
+    position: relative;
+    display: block;
+    border: none;
+    height: 420px;
+    width: 100%;
+    mix-blend-mode: luminosity;
+  }
+  
+
+  /*--------------------------------------------------------------
+# Google Map
+--------------------------------------------------------------*/
+.google-map-two {
+  position: relative;
+  display: block;
+  background-color: var(--insur-extra);
+  margin-top: -60px;
+}
+
+.google-map__two {
+  position: relative;
+  display: block;
+  border: none;
+  height: 420px;
+  width: 100%;
+  mix-blend-mode: luminosity;
+}
+  

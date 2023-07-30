@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
-    <title>Home Engineering</title>
+    <title><?php echo $title ?> | GPS CHEMOIL LLC FZC TERMINAL-2</title>
 
     <!-- fontawesome css -->
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-5.css">
@@ -61,11 +61,11 @@
                                 <div class="end-top">
                                     <div class="single-info">
                                         <div class="icon"><i class="fa-thin fa-location-dot"></i> </div>
-                                        <p>203 Madison Ave, New York, USA</p>
+                                        <p>Korfakhan road - Fujairah - United Arab Emirates</p>
                                     </div>
                                     <div class="single-info">
                                         <div class="icon"><i class="fa-regular fa-envelope"></i></div>
-                                        <a href="mailto:name@email.com">info@example.com</a>
+                                        <a href="mailto:info@gpschemo2.com">info@gpschemo2.com</a>
                                     </div>
                                 </div>
                             </div>
@@ -77,23 +77,27 @@
                                 <div class="main-nav-desk nav-area">
                                     <nav>
                                         <ul id="nav">
-                                            <li class="menu-item current">
-                                                <a class="nav-item" href="#home">Home</a>
+                                            <li class="menu-item  <?php if ($page == 'home') { echo 'current'; } ?>">
+                                                 <a  class="nav-item" href="index.php">Home</a>
                                             </li>
-                                            <li class="menu-item">
+                                            <li class="menu-item <?php if ($page == 'about') { echo 'current'; } ?>">
+                                                 <a  class="nav-item" href="about.php">About</a>
+                                            </li>
+                                            <!-- <li class="menu-item">
                                                 <a class="nav-item" href="#service">Services</a>
+                                            </li> -->
+                                            <li class="has-droupdown pages <?php if ($page == 'shipping' || $page == 'rail') { echo 'current'; } ?>">
+                                                <a class="nav-link" href="#">Services</a>
+                                                <ul class="submenu inner-page">
+                                                    <li class=" <?php if ($page == 'shipping') { echo 'current'; } ?>"><a class="nav-item" href="shipping.php">Shipping</a></li>
+                                                    <li class=" <?php if ($page == 'rail') { echo 'current'; } ?>"><a class="nav-item" href="rail.php">Rail</a></li>
+                                                </ul>
                                             </li>
-                                            <li class="menu-item">
-                                                <a class="nav-item" href="#about">About</a>
+                                            <li class="menu-item <?php if ($page == 'seq') { echo 'current'; } ?>">
+                                                <a class="nav-item" href="quality-and-safety.php">Safety and Quality</a>
                                             </li>
-                                            <li class="menu-item">
-                                                <a class="nav-item" href="#project">Portfolio</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a class="nav-item" href="#blog">Blog</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a class="nav-item" href="#contact">Contact</a>
+                                            <li class="menu-item <?php if ($page == 'contact') { echo 'current'; } ?>">
+                                                <a class="nav-item" href="contact.php">Contact</a>
                                             </li>
                                         </ul>
                                     </nav>
@@ -101,15 +105,15 @@
                                 <!-- nav-area end -->
                                 <!-- header style two End -->
                                 <div class="right-area">
-                                    <div class="icon-area">
+                                    <!-- <div class="icon-area">
                                         <div class="search" id="search">
                                             <i class="fa-regular fa-magnifying-glass"></i>
                                         </div>
                                         <div class="cart cart-icon">
                                             <i class="fa-regular fa-cart-shopping"></i>
                                         </div>
-                                    </div>
-                                    <a href="contact.html" class="rts-btn btn-seconday btn-transparent">Get a Quote <i class="fa-solid fa-arrow-up-right"></i></a>
+                                    </div> -->
+                                    <!-- <a href="contact.html" class="rts-btn btn-seconday btn-transparent">Get a Quote <i class="fa-solid fa-arrow-up-right"></i></a> -->
                                 </div>
                             </div>
                             <!-- bottom header end -->
@@ -123,10 +127,11 @@
     <!-- header area end -->
 
     <!-- side bar for desktop -->
-    <div id="side-bar" class="side-bar header-two">
-        <button class="close-icon-menu"><i class="far fa-times"></i></button>
+    <div id="side-bar" class="side-bar header-two ">
+      
+    <button class="close-icon-menu"><i class="far fa-times"></i></button>
         <!-- inner menu area desktop start -->
-        <div class="inner-main-wrapper-desk">
+        <div class="inner-main-wrapper-desk d-none">
             <div class="thumbnail">
                 <img src="assets/images/banner/04.jpg" alt="elevate">
             </div>
@@ -142,54 +147,31 @@
             </div>
         </div>
         <!-- mobile menu area start -->
-        <div class="mobile-menu d-block d-xl-none">
+        <div class="mobile-menu">
+        <!-- <div class="mobile-menu d-block d-xl-none"> -->
             <nav class="nav-main mainmenu-nav mt--30">
                 <ul class="mainmenu" id="mobile-menu-active">
-                    <li>
-                        <a href="#home" class="main">Home</a>
+                    <li class="<?php if ($page == 'home') { echo 'current'; } ?>">
+                            <a  class="main" href="index.php">Home</a>
                     </li>
-                    <li>
-                        <a href="#about" class="main">About</a>
+                    <li class="<?php if ($page == 'about') { echo 'current'; } ?>">
+                            <a  class="main" href="about.php">About</a>
                     </li>
-                    <li>
-                        <a href="#service" class="main">Services</a>
+                    <li class="<?php if ($page == 'shipping') { echo 'current'; } ?>">
+                            <a class="main" href="shipping.php">Shipping</a>
                     </li>
-                    <li>
-                        <a href="#portfolio" class="main">Portfolio</a>
+                    <li class="<?php if ($page == 'rail') { echo 'current'; } ?>">
+                         <a class="main" href="rail.php">Rail</a>
                     </li>
-                    <li>
-                        <a href="#blog" class="main">Blog</a>
+                    <li class="<?php if ($page == 'seq') { echo 'current'; } ?>">
+                        <a class="main" href="quality-and-safety.php">Safety and Quality</a>
                     </li>
-                    <li>
-                        <a href="#contact" class="main">Contact Us</a>
+                    <li class="<?php if ($page == 'contact') { echo 'current'; } ?>">
+                        <a class="main" href="contact.php">Contact</a>
                     </li>
                 </ul>
             </nav>
 
-            <div class="social-wrapper-one">
-                <ul>
-                    <li>
-                        <a href="#">
-                            <i class="fa-brands fa-facebook-f"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <i class="fa-brands fa-twitter"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <i class="fa-brands fa-youtube"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <i class="fa-brands fa-linkedin-in"></i>
-                        </a>
-                    </li>
-                </ul>
-            </div>
         </div>
         <!-- mobile menu area end -->
     </div>

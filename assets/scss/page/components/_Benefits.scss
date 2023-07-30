@@ -1,0 +1,125 @@
+
+
+
+/*--------------------------------------------------------------
+# Benefits
+--------------------------------------------------------------*/
+.benefits {
+    position: relative;
+    display: block;
+    background-color: var(--insur-extra);
+    padding: 120px 0 110px;
+    z-index: 1;
+  }
+  
+  .-bg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 886px;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: cover;
+    z-index: 1;
+  }
+  
+  .benefits-bg-2 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 1424px;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: cover;
+    opacity: .30;
+    z-index: -1;
+  }
+  
+  .benefits__left {
+    position: relative;
+    display: block;
+    margin-right: 20px;
+  }
+  
+  .benefits__left .section-title {
+    margin-bottom: 30px;
+  }
+  
+  .benefits__text {
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: var(--insur-letter-spacing);
+  }
+  
+  .benefits__point-box {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin-top: 41px;
+  }
+  
+  .benefits__point {
+    position: relative;
+    display: block;
+    float: left;
+  }
+  
+  .benefits__point li {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: var(--insur-white);
+    border-radius: var(--insur-bdr-radius);
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-left: 30px;
+    padding-right: 35px;
+    margin-bottom: 10px;
+    transition: all 500ms ease;
+  }
+  
+  .benefits__point li:hover {
+    background-color: var(--insur-base);
+  }
+  
+  .benefits__point li .icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 16px;
+    width: 16px;
+    background-color: var(--insur-base);
+    border-radius: 50%;
+    color: var(--insur-white);
+    font-size: 8px;
+    transition: all 500ms ease;
+  }
+  
+  .benefits__point li:hover .icon {
+    background-color: var(--insur-primary);
+    color: var(--insur-base);
+  }
+  
+  .benefits__point li .text {
+    margin-left: 10px;
+  }
+  
+  .benefits__point li .text p {
+    font-size: 18px;
+    color: var(--insur-black);
+    font-weight: 500;
+    letter-spacing: var(--insur-letter-spacing);
+    transition: all 500ms ease;
+  }
+  
+  .benefits__point li:hover .text p {
+    color: var(--insur-white);
+  }
+  
+  .benefits__point-two {
+    margin-left: 10px;
+  }
+  

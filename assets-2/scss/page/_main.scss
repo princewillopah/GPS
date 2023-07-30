@@ -9900,7 +9900,7 @@ Background Image
 //   background-image: url(../images/bg/bg-image-1.jpg);
 // }
 .bg_image--1 {
-  background-image: url(../images/_home/s1.png);
+  background-image: url(../images/_home/s1.PNG);
 }
 .bg_image--2 {
   background-image: url(../images/_home/s2.png);
@@ -19144,14 +19144,19 @@ edit .quantity-edit button {
     max-width: 1024px;
   }
 }
-.rts-banner-main-area-swiper.home-seven .swiper-container-h2 .swiper-wrapper .rts-banner-one.bg_image--1 {
-  background: url(../images/bg/bg-image-7.jpg);
-  background-size: cover;
-}
-.rts-banner-main-area-swiper.home-seven .swiper-container-h2 .swiper-wrapper .rts-banner-one.bg_image--2 {
-  background: url(../images/bg/bg-image-8.jpg);
-  background-size: cover;
-}
+// .rts-banner-main-area-swiper.home-seven .swiper-container-h2 .swiper-wrapper .rts-banner-one.bg_image--1 {
+//   background: url(../images/_home/s1.PNG);
+//   background-size: cover;
+// }
+// .rts-banner-main-area-swiper.home-seven .swiper-container-h2 .swiper-wrapper .rts-banner-one.bg_image--2 {
+//   background: url(../images/_home/s2.png);
+//   background-size: cover;
+// }
+// .rts-banner-main-area-swiper.home-seven .swiper-container-h2 .swiper-wrapper .rts-banner-one.bg_image--3 {
+//   background: url(../images/_home/s2.png);
+//   background-size: cover;
+// }
+
 .rts-banner-main-area-swiper.home-seven .swiper-container-h2 .swiper-wrapper .rts-banner-one .banner-one-wrapper .b_one-pre {
   color: var(--color-primary);
   font-weight: 400;

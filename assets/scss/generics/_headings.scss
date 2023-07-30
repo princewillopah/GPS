@@ -1,0 +1,200 @@
+// /* ================================= */
+/* ---------- General CSS ---------- */
+/* ================================= */
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Playfair+Display:400,700,900');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,600;1,200;1,400;1,600&amp;display=swap" rel="stylesheet');
+
+ body {
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+	 /*font-family: 'Playfair Display', serif;*/
+	color:#7b7b7b;
+	font-size:14px;
+  overflow-x: hidden;
+}
+html, body{
+	height: 100%;
+	width: 100%;
+}
+html{
+	font-size: 16px;
+}
+ol, ul {
+	list-style:none;
+	margin: 0;
+	padding: 0;
+}
+p {
+	font-family: 'Montserrat', sans-serif;
+	margin:0;
+}
+a {
+	color:inherit;
+	text-decoration: none;
+}
+a:hover, a:focus {
+	text-decoration: none;
+	outline: none;
+}
+.overflow_hidden{
+	overflow-x:hidden;
+}
+
+h2, h3, h4, h5 {
+	margin:0;
+	font-weight: bold;
+  // font-family: montserrat;
+  font-family: 'Montserrat', sans-serif;
+}
+h2 {
+	font-size:30px;
+}
+h3{
+	font-size: 25;
+}
+h4{
+	font-size:1.125rem;
+}
+h5{
+	font-size:1rem;
+}
+h6{
+	font-size: 0.875rem;
+}
+
+.bg_white {
+	background:#fff;
+}
+.padding_top{
+	padding-top:140px;
+}
+.padding_bottom{
+	padding-bottom:140px;
+}
+.heading_space{
+	margin-bottom: 70px;
+}
+.p-b-35{
+	padding-bottom:35px;
+}
+.p-t-35{
+	padding-top:35px;
+}
+.m-t-35{
+	margin-top:35px;
+}
+.m-b-20{
+	margin-bottom: 20px;
+}
+.heading > h2 {
+  margin-bottom: 20px;
+	text-transform: uppercase;
+}
+.heading > p {
+	padding-left: 19%;
+	padding-right: 19%;
+}
+
+/*.heading > h2 {
+  margin-bottom: 20px;
+}
+.heading > p {
+  padding: 0 19%;
+}*/
+.margin_bottom{
+	margin-bottom:70px;
+}
+.margin_top{
+	margin-top:70px;
+}
+.container{
+  width: 1170px;
+  max-width: 100%;
+}
+
+/*Transitions*/
+a, img, i, *:before, *:after,
+/*.navbar-brand > img,*/ .owl-prev, .owl-next,
+.feature_tag, .feature_detail > h4,
+.counters-item i,.owl-prev, .owl-next, .creative_detail > *,
+.feature_detail > *, .feature_tag,
+.services_img, .services_img img, .services_detail > span,
+.cbp-l-filters-alignCenter .cbp-filter-item,
+.wpf-demo-team, .wpf-demo-team .view-caption, .company_text *,
+.services-area, .services-area .services-item,
+.wpf-demo-6, .wpf-demo-6 img, .view-caption,
+.wpf-demo-6 h4, .view-caption h4,
+.services-section .services-inner, .service-detail-port, .service-detail-port *,
+.how-can-help-box, .how-can-help-box__body,
+#search, .owl-page, nav.navbar.bootsnav, .plans_details,
+.what-make-details, .services-page-2-details, .services-page-2-details *{
+  -webkit-transition: all 0.4s ease-in;
+  -o-transition: all 0.4s ease-in;
+  -moz-transition: all 0.4s ease-in;
+  transition: all 0.4s ease-in;
+}
+
+/* ================================= */
+/* ----------- Loader CSS ---------- */
+/* ================================= */
+.loading-page{
+  position:fixed;
+  z-index:110000;
+  left:0;
+  right:0;
+  overflow:hidden;
+  top:0;
+  bottom:0;
+  background: #0d0d0d;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          -moz-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          -webkit-align-items: center;
+          -moz-box-align: center;
+          align-items: center;
+}
+.loading-page .counter {
+  text-align: center;
+}
+.loading-page .counter p {
+  margin-bottom: 30px;
+}
+.loading-page .counter h2 {
+  color: white;
+  font-size: 60px;
+  margin:0 auto;
+  width:auto !important;
+  text-align:center;
+}
+.loading-page .counter hr {
+  background: #fb2415;
+  border: none;
+  height: 1px;
+}
+.loading-page .counter {
+  position: relative;
+  width: 200px;
+  margin:0 auto;
+}
+.loading-page .counter h2.abs {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.loading-page .counter .color {
+  width: 0px;
+  overflow: hidden;
+  color: #f60d54;
+}
