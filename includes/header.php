@@ -93,9 +93,18 @@
                                                     <li class=" <?php if ($page == 'rail') { echo 'current'; } ?>"><a class="nav-item" href="rail.php">Rail</a></li>
                                                 </ul>
                                             </li>
-                                            <li class="menu-item <?php if ($page == 'seq') { echo 'current'; } ?>">
-                                                <a class="nav-item" href="quality-and-safety.php">Safety and Quality</a>
+                                            <li class="has-droupdown pages <?php if ($page == 'health' || $page == 'safety' || $page == 'security' || $page == 'environment') { echo 'current'; } ?>">
+                                                <a class="nav-link" href="health-safety-security-environment.php">HSSE</a>
+                                                <ul class="submenu inner-page">
+                                                    <li class=" <?php if ($page == 'health') { echo 'current'; } ?>"><a class="nav-item" href="HSSE-health.php">Health</a></li>
+                                                    <li class=" <?php if ($page == 'safety') { echo 'current'; } ?>"><a class="nav-item" href="HSSE-safety.php">Safety</a></li>
+                                                    <li class=" <?php if ($page == 'security') { echo 'current'; } ?>"><a class="nav-item" href="HSSE-security.php">Security</a></li>
+                                                    <li class=" <?php if ($page == 'environment') { echo 'current'; } ?>"><a class="nav-item" href="HSSE-environment.php">Environment</a></li>
+                                                </ul>
                                             </li>
+                                            <!-- <li class="menu-item <?php if ($page == 'seq') { echo 'current'; } ?>">
+                                                <a class="nav-item" href="health-safety-security-environment.php">HSSE</a>
+                                            </li> -->
                                             <li class="menu-item <?php if ($page == 'contact') { echo 'current'; } ?>">
                                                 <a class="nav-item" href="contact.php">Contact</a>
                                             </li>
@@ -164,7 +173,7 @@
                          <a class="main" href="rail.php">Rail</a>
                     </li>
                     <li class="<?php if ($page == 'seq') { echo 'current'; } ?>">
-                        <a class="main" href="quality-and-safety.php">Safety and Quality</a>
+                        <a class="main" href="health-safety-security-environment.php">HSSE</a>
                     </li>
                     <li class="<?php if ($page == 'contact') { echo 'current'; } ?>">
                         <a class="main" href="contact.php">Contact</a>

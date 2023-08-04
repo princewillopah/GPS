@@ -79,9 +79,9 @@
                                         <i class="fa-sharp fa-solid fa-right"></i>
                                         Our Services
                                     </a>
-                                    <a href="quality-and-safety.php" class="single <?php if ($page == 'seq') { echo 'current'; } ?>">
+                                    <a href="health-safety-security-environment.php" class="single <?php if ($page == 'seq') { echo 'current'; } ?>">
                                         <i class="fa-sharp fa-solid fa-right"></i>
-                                        Safety and Quality
+                                        HSSE
                                     </a>
                                     <a href="contact.php" class="single <?php if ($page == 'contact') { echo 'current'; } ?>">
                                         <i class="fa-sharp fa-solid fa-right"></i>

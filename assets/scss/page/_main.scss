@@ -16257,7 +16257,9 @@ header.header-one .main-nav-desk nav ul li.has-droupdown .submenu.menu-home {
 .home-one.seven.onepage ul li.current a {
   color: var(--color-primary) !important;
 }
-
+.home-one.seven.onepage ul li.current2 a {
+  color: #aaa !important;
+}
 .onepage .header-seven .main-nav-desk nav ul li.menu-item a.nav-item {
   transition: all 0.3s;
   padding: 30px 10px;
@@ -16691,7 +16693,12 @@ header.header-three .main-nav-desk nav ul li.has-droupdown .submenu.inner-page l
 .home-one.onepage ul li.current a {
   color: #0C0A0A !important;
 }
-
+.onepage ul li.current2 a {
+  color: #aaa !important;
+}
+.home-one.onepage ul li.current2 a {
+  color: #aaa !important;
+}
 .header-one .main-nav-desk nav ul li.has-droupdown .submenu.menu-home li a span {
   bottom: 15px;
 }
