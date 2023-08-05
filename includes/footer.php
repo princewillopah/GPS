@@ -79,7 +79,7 @@
                                         <i class="fa-sharp fa-solid fa-right"></i>
                                         Our Services
                                     </a>
-                                    <a href="health-safety-security-environment.php" class="single <?php if ($page == 'seq') { echo 'current'; } ?>">
+                                    <a href="health-safety-security-environment.php" class="single <?php if ($page == 'hsse') { echo 'current'; } ?>">
                                         <i class="fa-sharp fa-solid fa-right"></i>
                                         HSSE
                                     </a>

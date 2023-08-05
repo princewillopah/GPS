@@ -93,11 +93,11 @@
                                                     <li class=" <?php if ($page == 'rail') { echo 'current'; } ?>"><a class="nav-item" href="rail.php">Rail</a></li>
                                                 </ul>
                                             </li>
-                                            <li class="has-droupdown pages <?php if ($page == 'health' || $page == 'safety' || $page == 'security' || $page == 'environment') { echo 'current'; } ?>">
+                                            <li class="has-droupdown pages <?php if ($page == 'sustainability' || $page == 'health-safety' || $page == 'security' || $page == 'environment') { echo 'current'; } ?>">
                                                 <a class="nav-link" href="health-safety-security-environment.php">HSSE</a>
                                                 <ul class="submenu inner-page">
-                                                    <li class=" <?php if ($page == 'health') { echo 'current'; } ?>"><a class="nav-item" href="HSSE-health.php">Health</a></li>
-                                                    <li class=" <?php if ($page == 'safety') { echo 'current'; } ?>"><a class="nav-item" href="HSSE-safety.php">Safety</a></li>
+                                                    <li class=" <?php if ($page == 'sustainability') { echo 'current'; } ?>"><a class="nav-item" href="HSSE-sustainability.php">Sustainability</a></li>
+                                                    <li class=" <?php if ($page == 'health-safety') { echo 'current'; } ?>"><a class="nav-item" href="HSSE-health-and-safety.php">Health and Safety</a></li>
                                                     <li class=" <?php if ($page == 'security') { echo 'current'; } ?>"><a class="nav-item" href="HSSE-security.php">Security</a></li>
                                                     <li class=" <?php if ($page == 'environment') { echo 'current'; } ?>"><a class="nav-item" href="HSSE-environment.php">Environment</a></li>
                                                 </ul>

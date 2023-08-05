@@ -194,6 +194,98 @@ max-width: 55px;
 // -------------------------------------------------------------------
 //    Shipping 
 // -------------------------------------------------------------------
+.woocommerce-product-details__short-description {
+  h5{
+      font-weight: 500;
+      line-height: 23px;
+  }
+  p{
+    
+      font-size: var(--font-size-b2);
+      line-height: 20px;
+      font-weight: 300;
+      color: var(--color-body);
+      margin: 0 0 10px;
+  
+  }
+}
+
+.rts-about-us-area{
+   
+  .product-details-main-inner{
+    .title-hsse{
+        margin-bottom: 20px;
+            h3{
+              color: #003333;
+                  span{
+                    color: #004d4d!important;
+                    font-weight: 600;
+                    font-size: 36px;
+                    line-height: 24px;
+
+            }
+      }
+        p.italic{ 
+            color: #2F4F4F;
+            font-weight: 500;
+            line-height:28px;
+
+        }
+    } // .title-hsse
+    .contenty{
+      margin-top: 50px; 
+        h4{
+            color:#003333;
+            font-size: 25px;
+            span{
+                    color: #004d4d!important;
+                    font-weight: 600;
+                    font-size: 25px;
+                    line-height: 24px;
+
+            } 
+        }
+        p{
+          line-height: 20px;
+         margin-bottom: 10px
+        }
+    }
+
+    .sus{
+      margin-bottom: 25px;
+      margin-top: 0px; 
+      h4{
+          color:#004d4d;
+          font-size: 20px;
+          margin-bottom: 10px;
+          span{
+                  color: #004d4d!important;
+                  font-weight: 600;
+                  font-size: 25px;
+                  line-height: 24px;
+
+          } 
+      }
+      .single-project-details-challenge{
+        p{
+            line-height: 20px;
+           margin-bottom: 10px;
+            color: #6E777D
+       }  
+      }
+      
+  }//sus
+
+
+}
+  
+}
+
+
+
+
+
+
 
 // -------------------------------------------------------------------
 //    Shipping 
