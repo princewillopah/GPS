@@ -302,7 +302,48 @@ max-width: 55px;
 // -------------------------------------------------------------------
 .about-a-p-cont {
   padding-left: 0px;
+  padding-right: 30px;
 }
+
+.service-abot-area{
+  .text-index h4 {
+    text-align: center;
+        line-height: 40px;
+        font-weight: 300;
+        font-family: 'Montserrat', sans-serif;
+        color: #6E777D;
+    }
+}
+
+.service-abot-area{
+  text-align: center;
+&.rts-section-gap{
+    padding: 80px 0
+}
+h3{
+   color: #aaa 
+}
+.text-index h5 {
+    line-height: 40px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    color: #6E777D;
+}
+
+.content{
+    margin-top: 60px;
+    .col-md-4{margin-bottom: 40px}
+    .about-1{
+        font-size: 20px;
+        color:teal;
+        width: 80%;
+        text-align: center;
+        margin: 0 auto 10px auto
+    }
+    .about-1-body{}
+}
+}
+
 // -------------------------------------------------------------------
 //    Shipping 
 // -------------------------------------------------------------------

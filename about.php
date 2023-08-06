@@ -75,6 +75,114 @@
     <div class="service-abot-area rts-section-gap service-about-bg bg_image">
         <div class="container-210">
             <div class="row align-items-center">
+                <div class="col-md-12">
+                    <div class="text-index">
+                        <h3>Our mission</h3>
+                        <h5>Our aim is to become the leading and trustworthy source for secure and eco-friendly solutions in storage, processing, logistics, and energy transition.</h4> 
+                    </div>
+                </div>
+                <div class="col-md-12  content">
+                    <div class="row">
+                                    <div class="col-md-4">
+                                        <h2 class="about-1">
+                                            Upholding an Outstanding Culture of Safety, Health, Environment, and Quality
+                                          </h2>
+                                      
+                                            <div class="about-1-body">
+                                            We are dedicated to maintaining an excellent culture of safety, health, the environment, and quality for the well-being of our employees, customers, and community. We ensure strict compliance with all relevant laws and regulations to uphold our commitment.
+                                            </div>
+                                       
+                                    </div>
+                                    <div class="col-md-4">
+                                        <h2 class="about-1">
+                                            Fostering Business Growth Through Innovation and Strategy
+                                          </h2>
+                                       
+                                            <div class="about-1-body">
+                                            We support our clients' businesses flourish by providing comprehensive and innovative services for large-volume product storage, processing, and shipping.
+                                            </div>
+                                     
+                                    </div>
+                                    <div class="col-md-4">
+                                        <h2 class="about-1">
+                                            Nurturing a Culture Centered Around Customers"
+                                          </h2>
+                                     
+                                            <div class="about-1-body">
+                                            We represent the variety of our clients' demands by cultivating a customer-centric culture and forging supply chain alliances.
+                                            </div>
+                                        
+                                    </div>
+                                    <div class="col-md-4">
+                                        <h2 class="about-1">
+                                            Propelling the Advancement of Energy Transition
+                                           </h2>
+                                     
+                                            <div class="about-1-body">
+                                            We offer our clients with the assistance they need to accelerate the energy transition toward a more sustainable future.
+                                            </div>
+                                      
+                                    </div>
+                                    <div class="col-md-4">
+                                        <h2 class="about-1">
+                                            Perpetual Enhancement of Quality Standards
+                                          </h2>
+                                     
+                                            <div class="about-1-body">
+                                            We provide dependable services by monitoring and enhancing the quality of our operational, innovation, and safety performance on a constant basis.
+                                            </div>
+                                        
+                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- rts service area end -->
+
+
+        <!-- rts about area start -->
+    <div class="rts-about-area-about safety rts-section-gap bg_about-f">
+        <div class="container plr_sm--15">
+            <div class="row">
+                <div class="col-lg-5">
+                    <div class="thumbnail-area-about">
+                        <img src="assets/images/_about/abt3.jpg" alt="about-area">
+                        <!-- <img src="assets/images/_about/05.jpg" alt="about-sm" class="small"> -->
+                    </div>
+                </div>
+                <div class="col-lg-7 about-a-p-cont">
+                    <div class="about-inner-wrapper-inner">
+                        <div class="title-three-left">
+                            <span class="pre-title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800" style="display: block;">
+                                ABOUT CAMBIO SCHEEPVAART BV
+                            </span>
+                            <h3 class="title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
+                            Discover Our <br>History
+                            </h3>
+                        </div>
+                        <div class="main-content-area-about-p">
+                            <p class="disc">
+                            CAMBIO SCHEEPVAART BV is a company that specializes in the transportation of mineral oils and liquid chemicals via inland waterway and rail. 
+                            The company has two main divisions - CAMBIO SCHEEPVAART BV Inland Shipping and CAMBIO SCHEEPVAART BV Rail, both of which have a modern and eco-friendly 
+                            fleet of double hull tankers and tank wagons. 
+                            Transporting goods through water and rail is considered to be one of the most environmentally friendly modes of transportation.
+                            </p>
+                            <p class="disc">
+                            In 2020, CAMBIO SCHEEPVAART BV transported 10.5 million tons of goods using a fleet of 53 tankers and a pool of over 300 tankers. Our services are centered around customer satisfaction, safety, sustainability, and effective communication. We strive to provide the best possible solutions for complex transport problems by adhering to legal guidelines, official regulations, customer requirements, and vetting systems. CAMBIO SCHEEPVAART BV's quality management system is certified in accordance with ISO 9001:2015.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- rts about area end -->
+
+ <!-- rts service area start -->
+ <div class="service-abot-area rts-section-gap service-about-bg bg_image">
+        <div class="container-210">
+            <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-12  plr-sm">
                     <div class="thumbnail-service-about">
                         <img src="assets/images/_about/atb3.jpg" alt="service-image">
@@ -155,8 +263,10 @@
         </div>
     </div>
     <!-- rts service area end -->
- <!-- rts about area start -->
- <div class="rts-about-area-about safety rts-section-gap bg_about-f">
+
+
+        <!-- rts about area start -->
+    <div class="rts-about-area-about safety rts-section-gap bg_about-f">
         <div class="container plr_sm--15">
             <div class="row">
                 <div class="col-lg-5">
@@ -270,6 +380,8 @@
         </div>
     </div>
     <!-- what we offer end -->
+
+
 
     <!-- rts fun facts area starts -->
     <div class="rts-about-fun-facts rts-section-gap bg_about-f">
