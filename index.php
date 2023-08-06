@@ -142,7 +142,7 @@
             <!-- If we need navigation buttons -->
         </div>
     </div>
-    <!-- banner end -->---------------------------------------------------
+    <!-- banner end -->
     <!-- banner end -->
 <!-- ========================End Banner ========================================= -->
 
@@ -152,210 +152,372 @@
   <div class="rts-about-us-area rts-section-gap">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
-                    <div class="thumbnail-about-six">
-                        <img class="image-lg" src="assets/images/_home/abt1.jpg" alt="about-image">
-                        <img class="image-sm" src="assets/images/_home/abt2.png" alt="about-image">
+                <div class="col-md-12">
+                    <div class="text-index">
+                        <h4>With a clear vision for the future, GPS CHEMOIL LLC FZC TERMINAL-2 is driving forward its integrated and innovative service solutions for storage, processing, logistics, and energy transition.
+                        Collaborating with our dedicated team and esteemed clients, we are constantly pursuing safer, more dependable, and environmentally-friendly solutions.</h4> 
                     </div>
                 </div>
-                <div class="col-lg-6 pl--65 pl_md--15 pl_sm--15 pt_md--60 pt_sm--80">
-                    <div class="title-left-wrapper-home-two sal-animate mb--30" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                        <span class="pre">CAMBIO SCHEEPVAART BV features</span>
-                        <h2 class="title mt--10">Our mission <br> is to deliver energy worldwide </h2>
-                    </div>
-                    <div class="about-six-inner-wrapper">
-                        <p class="disc">
-                        CAMBIO SCHEEPVAART BV is a leading company that specializes in the transportation of mineral oils, liquid chemicals, and various liquid products through water and rail. Our services are built upon the pillars of safety, sustainability, and dependable communication. With our skilled team, we handle daily transportation operations through rail, river, canal, and major seaports across Europe. At CAMBIO SCHEEPVAART BV, we boast a state-of-the-art fleet of environmentally friendly double-walled tankers and tank wagons, catering to clients in the chemical and mineral industries.
-                        </p>
-                        <p class="disc">
-                        CAMBIO SCHEEPVAART BV is a privately owned company engaged in the operation of crude oil tankers. Our fleet consists of VLCC (Very Large Crude Carrier) tankers that conduct business globally.
-                        </p>
-                        <p class="disc">We manage a vast network of more than 80 fleets and trains, spanning across France and the Netherlands. Additionally, we provide sub-lease services at the port of Houston, Texas.</p>
-
-
-                    </div>
-                </div>
+                
             </div>
         </div>
  </div>
     <!-- rts about us section end -->
-
- <!-- what we offer start -->
- <div class="rts-offer-provide-section rts-section-gap bg_about-f">
+     
+    <!-- rts about area start -->
+    <div class="rts-about-area rts-section-gapBottom">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-mid-wrapper-home-two" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                        <span class="pre">Our Services</span>
-                        <h2 class="title">What We Offer</h2>
+            <div class="right--div bg-white row">
+                <div class="col-xl-7 col-lg-12 p-0">
+                    <div class="about-one-left-wrapper   reveal-item overflow-hidden aos-init">
+                        <div class="reveal-item overflow-hidden aos-init">
+                            <div class="reveal-animation reveal-end reveal-primary aos aos-init" data-aos="reveal-end"></div>
+                            <img src="assets/images/about/01.jpg" alt="about-area">
+                            <div class="left-detail-thumb">
+                                <h5 class="title">
+                                Leading Provider of Strategic <br>
+                                Petroleum Storage Solutions
+                                </h5>
+                                <a href="HSSE-sustainability.php#strategy" class="rts-read-more-2">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-5 col-lg-12">
+                    <div class="about-one-right-wrapper">
+                        <div class="elecate-left-title">
+                            <!-- <span>Latest Projects</span> -->
+                            <h3 class="title">We Excel in All Aspects of Petroleum Storage and Management</h3>
+                        </div>
+                        <div class="rts-tab-one-start">
+                            <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">About</button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false">Vision</button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact-tab-pane" type="button" role="tab" aria-controls="contact-tab-pane" aria-selected="false">Contact</button>
+                                </li>
+                            </ul>
+                            <div class="tab-content" id="myTabContent">
+                                <!-- ingle content tab -->
+                                <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+                                    <div class="single-tab-content-one">
+                                        <p class="disc">
+                                        Since 1989, GPS CHEMOIL LLC FZC TERMINAL-2 has been involved in tank storage logistics. The corporation has a network of storage terminal companies operating on five continents, each with a particular strategic focus.
+                                        </p>
+                                        <div class="jurney-from">
+                                            <!-- <div class="left-jr">
+                                                <h3 class="title"><span class="counter plus">3526</span></h3>
+                                                <span class="sub">Started Journey</span>
+                                            </div> -->
+                                            <div class="right-jr">
+                                                <div class="single">
+                                                    <i class="fa-solid fa-circle-check"></i>
+                                                    <span>Emergency solutions available 24/7</span>
+                                                </div>
+                                                <div class="single">
+                                                    <i class="fa-solid fa-circle-check"></i>
+                                                    <span>Low-cost pricing guaranteed for up to two years</span>
+                                                </div>
+                                                <div class="single">
+                                                    <i class="fa-solid fa-circle-check"></i>
+                                                    <span>Reliable & Experienced Team</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a href="contact.php" class="rts-btn btn-seconday">Get STARTED</a>
+                                    </div>
+                                </div>
+                                <!-- ingle content tab end -->
+                                <!-- ingle content tab -->
+                                <div class="tab-pane fade" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
+                                    <div class="single-tab-content-one">
+                                        <p class="disc">
+                                        Leading transformative innovation in petroleum storage. Redefining industry standards, ensuring energy security, and sustainability. Purposeful leadership, agility, and positive impact worldwide..
+                                        </p>
+                                        <div class="jurney-from">
+                                            <!-- <div class="left-jr">
+                                                <h3 class="title"><span class="counter plus">2026</span></h3>
+                                                <span class="sub">Started Journey</span>
+                                            </div> -->
+                                            <div class="right-jr">
+                                                <div class="single">
+                                                    <i class="fa-solid fa-circle-check"></i>
+                                                    <span>Emergency solutions available 24/7</span>
+                                                </div>
+                                                <div class="single">
+                                                    <i class="fa-solid fa-circle-check"></i>
+                                                    <span>Low-cost pricing guaranteed for up to two years</span>
+                                                </div>
+                                                <div class="single">
+                                                    <i class="fa-solid fa-circle-check"></i>
+                                                    <span>Reliable & Experienced Team</span>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <a href="contact.php" class="rts-btn btn-seconday">Get STARTED</a>
+                                    </div>
+                                </div>
+                                <!-- ingle content tab end -->
+                                <!-- ingle content tab -->
+                                <div class="tab-pane fade" id="contact-tab-pane" role="tabpanel" aria-labelledby="contact-tab" tabindex="0">
+                                    <div class="single-tab-content-one">
+                                        <p class="disc">
+                                            Laoreet conubia parturient lacinia pulvinar senectus vel posuere proin nec
+                                            montes dapibus, elementum blandit sem et massa ornare habitasse cursus erat
+                                            nascetur, a sed placerat sagittis euismod.
+                                        </p>
+                                        <div class="jurney-from">
+                                            <!-- <div class="left-jr">
+                                                <h3 class="title"><span class="counter plus">1026</span></h3>
+                                                <span class="sub">Started Journey</span>
+                                            </div> -->
+                                            <div class="right-jr">
+                                                <div class="single contact">
+                                                    <i class="fa-regular fa-phone"></i>
+                                                    <a href="tel:+4733378901">+880123456564</a>
+                                                </div>
+                                                <div class="single contact">
+                                                    <i class="fa-regular fa-envelope"></i>
+                                                    <a href="mailto:info@gpschemo2.com">info@gpschemo2.com/</a>
+                                                </div>
+                                                <div class="single contact">
+                                                    <i class="fa-regular fa-location-dot"></i>
+                                                    <a href="mailto:info@gpschemo2.com">22 Madi Ave, Russia</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a href="contact.php" class="rts-btn btn-seconday">Get STARTED</a>
+                                    </div>
+                                </div>
+                                <!-- ingle content tab end -->
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="row mt--15 g-24">
-                <div class="col-lg-4">
+        </div>
+    </div>
+    <!-- rts about area end -->
+
+     <!-- what we offer start -->
+     <div class="rts-offer-provide-section rts-section-gap">
+        <div class="container">
+            <div class="row g-24">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">
-                        <a href="shipping.php" class="thumbnail">
-                            <img src="assets/images/_home/sv1.jpg" alt="service">
+                        <a href="other-services.php#" class="thumbnail">
+                            <img src="assets/images/service/07.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="shipping.php">
+                            <a href="other-services.php#storage">
                                 <h5 class="title">
-                                    Shipping Transportation
+                                Storage
                                 </h5>
                             </a>
-                            <p class="disc">
-                            We provides transport over rivers, canals and via the seaports of Europe.
-                            </p>
-                            <a href="shipping.php" class="rts-btn btn-transparent-service">View Services<i class="fa-light fa-arrow-right"></i></a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#storage" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <!-- single offer area end -->
                 </div>
-                <div class="col-lg-4">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">
-                        <a href="rail.php" class="thumbnail">
-                            <img src="assets/images/_home/sv2.png" alt="service">
+                        <a href="other-services.php#" class="thumbnail">
+                            <img src="assets/images/service/08.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="rail.php">
+                            <a href="other-services.php#transportation">
                                 <h5 class="title">
-                                  Rail  Transportation
+                                Transportation
                                 </h5>
                             </a>
-                            <p class="disc">
-                            We offer the market reliable handling of block trains in Houston and Europe
-                            </p>
-                            <a href="rail.php" class="rts-btn btn-transparent-service">View Services<i class="fa-light fa-arrow-right"></i></a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#transportation" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <!-- single offer area end -->
                 </div>
-                <div class="col-lg-4">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">
-                        <a href="storage.php" class="thumbnail">
-                            <img src="assets/images/_home/sv3.jpg" alt="service">
+                        <a href="other-services.php#multimodal-logistics" class="thumbnail">
+                            <img src="assets/images/service/07.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="storage.php">
+                            <a href="other-services.php#multimodal-logistics">
                                 <h5 class="title">
-                                    Tank Storage
+                                Multimodal Logistics
                                 </h5>
                             </a>
-                            <p class="disc">
-                            We offer a dependable, high-quality service for oil and petroleum storage, as well as sourcing, logistics, hedging, and product knowledge.
-                            </p>
-                            <a href="storage.php" class="rts-btn btn-transparent-service">View Services<i class="fa-light fa-arrow-right"></i></a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="other-services.php#speciality-services" class="thumbnail">
+                            <img src="assets/images/service/08.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="other-services.php#">
+                                <h5 class="title">
+                                Speciality Services
+                                </h5>
+                            </a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#speciality-services" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="other-services.php#processing-and-refining" class="thumbnail">
+                            <img src="assets/images/service/09.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="other-services.php#">
+                                <h5 class="title">
+                                Processing & Refining
+                                </h5>
+                            </a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#processing-and-refining" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="other-services.php#blending-and-heating" class="thumbnail">
+                            <img src="assets/images/service/07.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="other-services.php#">
+                                <h5 class="title">
+                                Blending & Heating
+                                </h5>
+                            </a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#blending-and-heating" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <!-- single offer area end -->
                 </div>
             </div>
         </div>
-</div>
+    </div>
     <!-- what we offer end -->
-  <!-- fun facts area start -->
-  <div class="rts-fun-facts-area rts-section-gap fun-facts-bg bg_image">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="elecate-left-title" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                        <!-- <span>Latest Projects</span> -->
-                        <h3 class="title">We Will Get Your<br> Shipping/Rail Transporation Covered</h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-5 mt--10">
-                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                    <!-- single fun facts start -->
-                    <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                        <div class="inner">
-                            <div class="icon">
-                                <img src="assets/images/_others/icon/tk1.png" alt="icon">
-                            </div>
-                            <h3 class="title"><span class="counter plus">2500</span></h3>
-                            <p>Storage Tanks</p>
-                        </div>
-                    </div>
-                    <!-- single fun facts end -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                    <!-- single fun facts start -->
-                    <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
-                        <div class="inner">
-                            <div class="icon">
-                                <img src="assets/images/_others/icon/04.svg" alt="icon">
-                            </div>
-                            <h3 class="title"><span class="counter ">99</span> %</h3>
-                            <p>Our Success Rates</p>
-                        </div>
-                    </div>
-                    <!-- single fun facts end -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                    <!-- single fun facts start -->
-                    <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
-                        <div class="inner">
-                            <div class="icon">
-                                <img src="assets/images/_others/icon/s1.png" alt="icon">
-                            </div>
-                            <h3 class="title"><span class="counter plus">100</span></h3>
-                            <p>Our Fleets</p>
-                        </div>
-                    </div>
-                    <!-- single fun facts end -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
-                    <!-- single fun facts start -->
-                    <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="750" data-sal-duration="800">
-                        <div class="inner">
-                            <div class="icon">
-                                <img src="assets/images/_others/icon/t2.png" alt="icon">
-                            </div>
-                            <h3 class="title"><span class="counter plus">70</span></h3>
-                            <p>Our Trains</p>
-                        </div>
-                    </div>
-                    <!-- single fun facts end -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- fun facts area end -->
 
-    <!-- rts cta area start -->
-    <div class="rts-cta-area rts-section-gap2">
-        <div class="container container-cta-150">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="path-cta-left">
-                        <h3 class="title">
-                            Do you want to get started?
-                        </h3>
-                        <p class="disc">Get free consultation of your shipping solutions. feel free to call us.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="path-call-area">
-                        <div class="icon">
-                            <i class="fa-regular fa-phone-office"></i>
-                        </div>
-                        <div class="detail">
-                            <span>Mon-Sat 8:00-9:00</span>
-                            <a href="#" class="number">
-                            +33 7 56 75 79 27
-                            </a>
+
+    <!-- service accordion area start -->
+    <div class="rts-accordion-area service rts-section-gapBottom">
+        <div class="accordion-service-bg bg_image ptb--120 ptb_md--80 ptb_sm--60">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6">
+                        <div class="accordion-service-inner">
+                            <div class="title-area-start" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
+                                <span class="sub color-primary">Global Petroleum Proficiency: Navigating Success Worldwide</span>
+                                <h2 class="title">Our mission</h2>
+                            </div>
+                            <div class="accordion-area">
+                                <div class="accordion" id="accordionExample">
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingOne">
+                                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                            Upholding an Outstanding Culture of Safety, Health, Environment, and Quality
+                                            </button>
+                                        </h2>
+                                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                            We are dedicated to maintaining an excellent culture of safety, health, the environment, and quality for the well-being of our employees, customers, and community. We ensure strict compliance with all relevant laws and regulations to uphold our commitment.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingTwo">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                            Fostering Business Growth Through Innovation and Strategy
+                                            </button>
+                                        </h2>
+                                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                            We support our clients' businesses flourish by providing comprehensive and innovative services for large-volume product storage, processing, and shipping.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingThree">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                            Nurturing a Culture Centered Around Customers"
+                                            </button>
+                                        </h2>
+                                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                            We represent the variety of our clients' demands by cultivating a customer-centric culture and forging supply chain alliances.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingFour">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                            Propelling the Advancement of Energy Transition
+                                            </button>
+                                        </h2>
+                                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                            We offer our clients with the assistance they need to accelerate the energy transition toward a more sustainable future.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingFive">
+                                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                            Perpetual Enhancement of Quality Standards
+                                            </button>
+                                        </h2>
+                                        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                            We provide dependable services by monitoring and enhancing the quality of our operational, innovation, and safety performance on a constant basis.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- rts cta area end -->
+    <!-- service accordion area end -->
 
-<!--=========================footer =============================================-->
+
  <!-- ----------footer---------------------------------- -->
  <?php
 	$page ="home";

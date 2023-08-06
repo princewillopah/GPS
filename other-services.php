@@ -1,7 +1,7 @@
 <?php
 
-	$title = 'Shipping';
-	$page ="shipping";
+	$title = 'Other Services';
+	$page ="other-services";
    include "includes/header.php";
 ?>
 
@@ -13,10 +13,10 @@
                 <div class="col-lg-12">
                     <!-- bread crumb inner wrapper -->
                     <div class="breadcrumb-inner text-center">
-                        <h1 class="title">Shipping</h1>
+                        <h1 class="title">Our Services</h1>
                         <div class="meta">
                         <a href="index.php" class="prev">Home /</a>
-                            <a href="shipping.php" class="next">Shipping</a>
+                            <a href="other-services.php" class="next">Services</a>
                         </div>
                     </div>
                     <!-- bread crumb inner wrapper end -->
@@ -356,7 +356,7 @@
 <!--=========================footer =============================================-->
  <!-- ----------footer---------------------------------- -->
  <?php
-	$page ="shipping";
+	$page ="other-services";
 	include "includes/footer.php";
 ?>
 <!-- ---------------end footer ---------------------------- -->

@@ -24,6 +24,11 @@
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
     <!-- main css -->
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
 </head>
 
 <body class="home-one seven onepage">
@@ -89,8 +94,9 @@
                                             <li class="has-droupdown pages <?php if ($page == 'shipping' || $page == 'rail') { echo 'current'; } ?>">
                                                 <a class="nav-link" href="#">Services</a>
                                                 <ul class="submenu inner-page">
-                                                    <li class=" <?php if ($page == 'shipping') { echo 'current'; } ?>"><a class="nav-item" href="shipping.php">Shipping</a></li>
-                                                    <li class=" <?php if ($page == 'rail') { echo 'current'; } ?>"><a class="nav-item" href="rail.php">Rail</a></li>
+                                                    
+                                                    <li class=" <?php if ($page == 'storage') { echo 'current'; } ?>"><a class="nav-item" href="storage.php">Storage</a></li>
+                                                    <li class=" <?php if ($page == 'other-services') { echo 'current'; } ?>"><a class="nav-item" href="other-services.php">Other Services</a></li>
                                                 </ul>
                                             </li>
                                             <li class="has-droupdown pages <?php if ($page == 'sustainability' || $page == 'health-safety' || $page == 'security' || $page == 'environment') { echo 'current'; } ?>">
@@ -166,11 +172,11 @@
                     <li class="<?php if ($page == 'about') { echo 'current'; } ?>">
                             <a  class="main" href="about.php">About</a>
                     </li>
-                    <li class="<?php if ($page == 'shipping') { echo 'current'; } ?>">
-                            <a class="main" href="shipping.php">Shipping</a>
+                    <li class="<?php if ($page == 'storage') { echo 'current'; } ?>">
+                            <a class="main" href="storage.php">Storage</a>
                     </li>
-                    <li class="<?php if ($page == 'rail') { echo 'current'; } ?>">
-                         <a class="main" href="rail.php">Rail</a>
+                    <li class="<?php if ($page == 'other-services') { echo 'current'; } ?>">
+                         <a class="main" href="other-services.php">Other Services</a>
                     </li>
                     <li class="<?php if ($page == 'seq') { echo 'current'; } ?>">
                         <a class="main" href="health-safety-security-environment.php">HSSE</a>

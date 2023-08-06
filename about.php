@@ -34,19 +34,13 @@
     <div class="rts-about-area-about rts-section-gap">
         <div class="container pb--45 plr_sm--15">
             <div class="row">
-                <div class="col-lg-5">
-                    <div class="thumbnail-area-about">
-                        <img src="assets/images/_about/cap.png" alt="about-area">
-                        <!-- <img src="assets/images/_about/05.jpg" alt="about-sm" class="small"> -->
-                        <!-- <a class="rts-btn btn-primary" href="#">Elevate Profile</a> -->
-                    </div>
-                </div>
+
                 <div class="col-lg-7 about-a-p-cont">
                     <div class="about-inner-wrapper-inner">
                         <div class="title-three-left">
-                            <span class="pre-title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800" style="display: block;">
+                            <!-- <span class="pre-title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800" style="display: block;">
                                 Renovation Company
-                            </span>
+                            </span> -->
                             <h3 class="title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
                                 Our thoughts for developing <br>
                                 you the best shipping solution.
@@ -56,59 +50,22 @@
                             <p class="disc">
                             CAMBIO SCHEEPVAART BV is a leading global provider of maritime services and plays a crucial role in the worldwide energy supply chain. Our mission is to deliver energy to any part of the world, supporting the global economy and improving people's quality of life.
                             </p>
-                            <div class="service-wrapper">
-                                <div class="left">
-                                    <!-- ingle support -->
-                                    <div class="single-service">
-                                        <i class="fa-regular fa-circle-check"></i>
-                                        <p>We provide dependability</p>
-                                    </div>
-                                    <!-- ingle support -->
-                                    <!-- ingle support -->
-                                    <div class="single-service">
-                                        <i class="fa-regular fa-circle-check"></i>
-                                        <p>We welcome change via innovation</p>
-                                    </div>
-                                    <!-- ingle support -->
-                                </div>
-
-                                <div class="right">
-                                    <!-- ingle support -->
-                                    <div class="single-service">
-                                        <i class="fa-regular fa-circle-check"></i>
-                                        <p>We adhere to what is right</p>
-                                    </div>
-                                    <!-- ingle support -->
-                                    <!-- ingle support -->
-                                    <div class="single-service">
-                                        <i class="fa-regular fa-circle-check"></i>
-                                        <p>We’re quick and reliable insurance</p>
-                                    </div>
-                                    <!-- ingle support -->
-                                </div>
-                            </div>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla earum tempore ipsa reiciendis fuga facilis magni dicta cumque, hic, accusantium adipisci quasi consequuntur eligendi, perferendis nostrum sunt eaque alias nemo!</p>
 
                             <div class="authore-artea-wrapper">
-                                <!-- authore area start -->
-                                <!-- <div class="main-authore-wrapper">
-                                    <div class="author">
-                                        <img src="assets/images/_about/06.jpg" alt="">
-                                    </div>
-                                    <div class="info">
-                                        <h6 class="title">Daniel H. Smith</h6>
-                                        <span class="desig">Founder & Ceo</span>
-                                    </div>
-                                </div> -->
-                                <!-- authore area end -->
-                                <a href="shipping.php" class="rts-btn btn-primary">View our shipping details</a>
+                                <a href="storage.php" class="rts-btn btn-primary">View our storage details</a>
                             </div>
 
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="bg-text">
-                <h2 class="title">About Us</h2>
+
+                <div class="col-lg-5">
+                    <div class="thumbnail-area-about">
+                        <img src="assets/images/_about/cap.png" alt="about-area">
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>

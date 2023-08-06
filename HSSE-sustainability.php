@@ -29,12 +29,12 @@
 
 
   <!-- rts about us section start -->
-  <div class="rts-about-us-area rts-section-gap hsse">
+  <div class="rts-about-us-area rts-section-gap hsse" id="strategy">
         <div class="container">
 
             <div class="row mb--50">
                 <div class="col-12">
-                    <div class="product-details-main-inner" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
+                    <div class="product-details-main-inner"  data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
                         <div class="title-hsse">
                             <h3 class="title animated fadeIn">Embracing Sustainability:  <span clas="h4">Our Strategy for a Better Future</span></h3>
                             <p class="italic">

@@ -97,11 +97,11 @@
                                     Services
                                 </h6>
                                 <div class="use-full-link-wrapper">
-                                    <a href="shipping.php" class="single <?php if ($page == 'shipping') { echo 'current'; } ?>">
+                                    <a href="other-services.php" class="single <?php if ($page == 'other-services') { echo 'current'; } ?>">
                                         <i class="fa-sharp fa-solid fa-right"></i>
-                                        Shipping
+                                        Other Services
                                     </a>
-                                    <a href="rail.php" class="single <?php if ($page == 'rail') { echo 'current'; } ?> ">
+                                    <a href="other-services.php#rail" class="single <?php if ($page == 'rail') { echo 'current'; } ?> ">
                                         <i class="fa-sharp fa-solid fa-right"></i>
                                        Rail
                                     </a>
