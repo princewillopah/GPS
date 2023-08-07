@@ -141,43 +141,62 @@
     <!-- rts service area end -->
 
 
-        <!-- rts about area start -->
-    <div class="rts-about-area-about safety rts-section-gap bg_about-f">
-        <div class="container plr_sm--15">
+  <!-- Working process start -->
+  <div class="rts-working-process-area rts-section-gap home-seven">
+        <div class="container">
             <div class="row">
-                <div class="col-lg-5">
-                    <div class="thumbnail-area-about">
-                        <img src="assets/images/_about/abt3.jpg" alt="about-area">
-                        <!-- <img src="assets/images/_about/05.jpg" alt="about-sm" class="small"> -->
+                <div class="col-lg-12">
+                    <div class="heading-title">
+                        <div class="elecate-center-title" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
+                            <span>What Defines Us</span>
+                            <h3 class="title">Our Core Values</h3>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-7 about-a-p-cont">
-                    <div class="about-inner-wrapper-inner">
-                        <div class="title-three-left">
-                            <span class="pre-title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800" style="display: block;">
-                                ABOUT CAMBIO SCHEEPVAART BV
-                            </span>
-                            <h3 class="title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
-                            Discover Our <br>History
-                            </h3>
+            </div>
+            <div class="working-process-inner">
+                <div class="row justify-content-center">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                        <div class="working-wrapper">
+                            <div class="icon"></div>
+                            <div class="content">
+                                <h3 class="main-title">Project Processing</h3>
+                                <p class="desc">Cursus euismod dictumst a non dis nisi sociosqu mauris.</p>
+                            </div>
                         </div>
-                        <div class="main-content-area-about-p">
-                            <p class="disc">
-                            CAMBIO SCHEEPVAART BV is a company that specializes in the transportation of mineral oils and liquid chemicals via inland waterway and rail. 
-                            The company has two main divisions - CAMBIO SCHEEPVAART BV Inland Shipping and CAMBIO SCHEEPVAART BV Rail, both of which have a modern and eco-friendly 
-                            fleet of double hull tankers and tank wagons. 
-                            Transporting goods through water and rail is considered to be one of the most environmentally friendly modes of transportation.
-                            </p>
-                            <p class="disc">
-                            In 2020, CAMBIO SCHEEPVAART BV transported 10.5 million tons of goods using a fleet of 53 tankers and a pool of over 300 tankers. Our services are centered around customer satisfaction, safety, sustainability, and effective communication. We strive to provide the best possible solutions for complex transport problems by adhering to legal guidelines, official regulations, customer requirements, and vetting systems. CAMBIO SCHEEPVAART BV's quality management system is certified in accordance with ISO 9001:2015.
-                            </p>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                        <div class="working-wrapper">
+                            <div class="icon two"></div>
+                            <div class="content">
+                                <h3 class="main-title">High Quality Products</h3>
+                                <p class="desc">Cursus euismod dictumst a non dis nisi sociosqu mauris.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                        <div class="working-wrapper">
+                            <div class="icon three"></div>
+                            <div class="content">
+                                <h3 class="main-title">Huge Choice Products</h3>
+                                <p class="desc">Cursus euismod dictumst a non dis nisi sociosqu mauris.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                        <div class="working-wrapper">
+                            <div class="icon four"></div>
+                            <div class="content">
+                                <h3 class="main-title">Quality Finished</h3>
+                                <p class="desc">Cursus euismod dictumst a non dis nisi sociosqu mauris.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- rts about area end -->
+    <!-- Working process end -->
 
  <!-- rts service area start -->
  <div class="service-abot-area rts-section-gap service-about-bg bg_image">
@@ -380,6 +399,87 @@
         </div>
     </div>
     <!-- what we offer end -->
+
+
+
+
+   <!-- company experties area start -->
+    <div class="rts-company-experties-area rts-section-gap bg-experties home-seven">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="latest-project-horizental-title-wrapper">
+                        <div class="title-left-wrapper-home-two sal-animate" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
+                            <span class="pre">Company Expertise</span>
+                            <h2 class="title mt--10">Some Of Your Achievement And <br> Inner Beauty Of Our Company</h2>
+                        </div>
+                        <div class="button-area">
+                            <a href="#" class="rts-btn btn-seconday">Make an Appointment <i class="fa-sharp fa-solid fa-arrow-up-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="experties-area-inner">
+                        <!-- rts single experties start -->
+                        <div class="single-experties">
+                            <!-- icon area start -->
+                            <div class="icon-area">
+                                <img src="assets/images/fun-facts/icon/11.png" alt="icon">
+                            </div>
+                            <!-- icon area end -->
+                            <div class="counter-inner">
+                                <h2 class="title plus"><span class="counter plus">3658</span></h2>
+                                <span class="sub">Satisfied Customers</span>
+                            </div>
+                        </div>
+                        <!-- rts single experties end -->
+                        <!-- rts single experties start -->
+                        <div class="single-experties">
+                            <!-- icon area start -->
+                            <div class="icon-area">
+                                <img src="assets/images/fun-facts/icon/12.png" alt="icon">
+                            </div>
+                            <!-- icon area end -->
+                            <div class="counter-inner">
+                                <h2 class="title plus"><span class="counter plus">658</span></h2>
+                                <span class="sub">Expert Members</span>
+                            </div>
+                        </div>
+                        <!-- rts single experties end -->
+                        <!-- rts single experties start -->
+                        <div class="single-experties">
+                            <!-- icon area start -->
+                            <div class="icon-area">
+                                <img src="assets/images/fun-facts/icon/13.png" alt="icon">
+                            </div>
+                            <!-- icon area end -->
+                            <div class="counter-inner">
+                                <h2 class="title plus"><span class="counter plus">368</span></h2>
+                                <span class="sub">Modern Equipment</span>
+                            </div>
+                        </div>
+                        <!-- rts single experties end -->
+                        <!-- rts single experties start -->
+                        <div class="single-experties after-none">
+                            <!-- icon area start -->
+                            <div class="icon-area">
+                                <img src="assets/images/fun-facts/icon/14.png" alt="icon">
+                            </div>
+                            <!-- icon area end -->
+                            <div class="counter-inner">
+                                <h2 class="title plus"><span class="counter plus">153</span></h2>
+                                <span class="sub"> Tons Of Harvest</span>
+                            </div>
+                        </div>
+                        <!-- rts single experties end -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- company experties area end -->
 
 
 
