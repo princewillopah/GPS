@@ -304,45 +304,53 @@ max-width: 55px;
   padding-left: 0px;
   padding-right: 30px;
 }
-
-.service-abot-area{
-  .text-index h4 {
-    text-align: center;
-        line-height: 40px;
-        font-weight: 300;
-        font-family: 'Montserrat', sans-serif;
-        color: #6E777D;
-    }
-}
-
 .service-abot-area{
   text-align: center;
-&.rts-section-gap{
-    padding: 80px 0
-}
-h3{
-   color: #aaa 
-}
-.text-index h5 {
-    line-height: 40px;
-    font-weight: 500;
-    font-family: 'Montserrat', sans-serif;
-    color: #6E777D;
-}
+   .text-index h4 {
+       background: red;
+         text-align: center;
+         line-height: 40px;
+         font-weight: 300;
+         font-family: 'Montserrat', sans-serif;
+         color: #6E777D;
+       width:80%
+     }
+    
+   &.rts-section-gap{
+       padding: 80px 0
+   }
+   h3{
+     color: #aaa;
+   }
+   .text-index h5 {
+       line-height: 30px;
+       font-weight: 500;
+       font-family: 'Montserrat', sans-serif;
+       color: #6E777D;
+        padding: 20px 0 30px 0;
+       width: 70%;
+       margin: 0 auto
+   }
+ 
+   .content{
+        
+       margin-top: 60px;
+       .col-md-4{margin-bottom: 40px}
+       .about-1{
+           font-size: 20px;
+           color:teal;
+           width: 80%;
+           text-align: center;
+           margin: 0 auto 10px auto
+       }
+       .about-1-body{}
+   }
+     
+ }
 
-.content{
-    margin-top: 60px;
-    .col-md-4{margin-bottom: 40px}
-    .about-1{
-        font-size: 20px;
-        color:teal;
-        width: 80%;
-        text-align: center;
-        margin: 0 auto 10px auto
-    }
-    .about-1-body{}
-}
-}
+// .service-abot-area{
+
+// }
 
 // -------------------------------------------------------------------
 //    Shipping 
