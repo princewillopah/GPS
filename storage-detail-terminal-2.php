@@ -48,16 +48,16 @@ include "includes/header.php";
                         <div class="thumbnail">
                             <img src="assets/images/service/15.jpg" alt="elevate-area">
                         </div>
-                        <h4 class="title">Le Havre Petroleum Terminal: A Vital Energy Hub</h4>
+                        <h4 class="title">Marseille Petroleum Hub: Energizing Global Trade</h4>
                         <p class="disc">
-                        Strategically situated on France's northern coast, the Le Havre Petroleum Terminal plays a pivotal role in global energy trade. With seamless access to key transportation networks, it efficiently handles petroleum imports and exports. Its state-of-the-art infrastructure and prime location ensure vital connections between refineries, distribution centers, and consumers worldwide. This terminal stands as a critical link in the energy supply chain, facilitating efficient and reliable petroleum trade on an international scale.</p>
+                        At the heart of Marseille, France, the petroleum terminal stands as a pulsating center for energy commerce. Seamlessly integrated into crucial transport networks, it orchestrates the inflow and outflow of petroleum products with finesse. Anchored by advanced infrastructure and a strategic locale, the terminal forges vital links between refineries, distribution networks, and worldwide consumers. A linchpin in the energy supply chain, the Marseille Petroleum Terminal plays an instrumental role in facilitating efficient and dependable international petroleum trading.</p>
 
                         <div class="row g-5 mt--30 mb--40">
                             <div class="col-lg-6">
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">TANK CAPACITY</h6>
-                                        <p class="disc">27 045 m3</p>
+                                        <p class="disc">20,000 CBM</p>
                                     </div>
                                 </div>
                             </div>
@@ -65,7 +65,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">NUMBER OF TANKS</h6>
-                                        <p class="disc">23</p>
+                                        <p class="disc">14</p>
                                     </div>
                                 </div>
                             </div>
@@ -81,7 +81,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">TANK SIZES</h6>
-                                        <p class="disc">	from 50 to 4 000 m3</p>
+                                        <p class="disc">From 60 to 4 000 m3</p>
                                     </div>
                                 </div>
                             </div>
@@ -98,7 +98,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">MAXIMUM DRAFT</h6>
-                                        <p class="disc">7,5 m (25 ft)</p>
+                                        <p class="disc">7,4 m (24 ft)</p>
                                     </div>
                                 </div>
                             </div>
@@ -106,7 +106,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">PRODUCTS</h6>
-                                        <p class="disc">Chemicals, vegetable oils, and high heat products (such as bitumen).</p>
+                                        <p class="disc">Vegetable oils & fats, glycerine, soy lecithin, sunflower lecithin & canola lecithin</p>
                                     </div>
                                 </div>
                             </div>
@@ -135,7 +135,9 @@ include "includes/header.php";
                                 </div>
                             </div>
                         </div>
-
+                        <p class="disc">
+                        Warehouse for finished packed products, 15,000 pallets, four heating rooms for IBCs and flexibags, filling of IBCs or drums for tank & truck, flexi bags for truck shipping, logistics by truck, ISO tank container for truck shipping, filtration, blending & mixing.
+                        </p>
                                 <!-- latest projects end -->
                                 <div class="col-12  storage-caption">
                                     <h5>By consistently providing secure and inventive storage options, we consistently go above and beyond to fulfill the requirements of our clients.</h5>

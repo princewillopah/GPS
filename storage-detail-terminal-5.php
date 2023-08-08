@@ -48,9 +48,9 @@ include "includes/header.php";
                         <div class="thumbnail">
                             <img src="assets/images/service/15.jpg" alt="elevate-area">
                         </div>
-                        <h4 class="title">Le Havre Petroleum Terminal: A Vital Energy Hub</h4>
+                        <h4 class="title">Fos-sur-Mer Petroleum Terminal: Powering Global Energy Flows</h4>
                         <p class="disc">
-                        Strategically situated on France's northern coast, the Le Havre Petroleum Terminal plays a pivotal role in global energy trade. With seamless access to key transportation networks, it efficiently handles petroleum imports and exports. Its state-of-the-art infrastructure and prime location ensure vital connections between refineries, distribution centers, and consumers worldwide. This terminal stands as a critical link in the energy supply chain, facilitating efficient and reliable petroleum trade on an international scale.</p>
+                        Nestled in Fos-sur-Mer, France, the petroleum terminal serves as a dynamic hub for energy trade. Seamlessly linked to vital transportation routes, it efficiently manages the import and export of petroleum products. With cutting-edge facilities and strategic positioning, the terminal fosters essential connections between refineries, distribution centers, and global consumers. A cornerstone of the energy supply chain, Fos-sur-Mer Petroleum Terminal plays a vital role in ensuring efficient and reliable international petroleum trade.</p>
 
                         <div class="row g-5 mt--30 mb--40">
                             <div class="col-lg-6">
@@ -81,7 +81,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">TANK SIZES</h6>
-                                        <p class="disc">	from 50 to 4 000 m3</p>
+                                        <p class="disc">From 50 to 4 000 m3</p>
                                     </div>
                                 </div>
                             </div>

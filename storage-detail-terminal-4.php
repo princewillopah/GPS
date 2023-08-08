@@ -48,16 +48,16 @@ include "includes/header.php";
                         <div class="thumbnail">
                             <img src="assets/images/service/15.jpg" alt="elevate-area">
                         </div>
-                        <h4 class="title">Le Havre Petroleum Terminal: A Vital Energy Hub</h4>
+                        <h4 class="title">Rotterdam Pernis Refinery: Energizing Global Industry</h4>
                         <p class="disc">
-                        Strategically situated on France's northern coast, the Le Havre Petroleum Terminal plays a pivotal role in global energy trade. With seamless access to key transportation networks, it efficiently handles petroleum imports and exports. Its state-of-the-art infrastructure and prime location ensure vital connections between refineries, distribution centers, and consumers worldwide. This terminal stands as a critical link in the energy supply chain, facilitating efficient and reliable petroleum trade on an international scale.</p>
+                        Nestled in Rotterdam, Netherlands, the Pernis Refinery reigns as a powerhouse in the global industrial landscape. Seamlessly connected to vital transport routes, it orchestrates the processing of petroleum products with precision. Supported by cutting-edge infrastructure and a strategic location, the refinery serves as a pivotal link in the supply chain, connecting refineries, distribution networks, and industries worldwide. As a cornerstone of global energy trade, the Rotterdam Pernis Refinery plays an indispensable role in ensuring efficient and reliable petroleum processing and distribution on a worldwide scale.</p>
 
                         <div class="row g-5 mt--30 mb--40">
                             <div class="col-lg-6">
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">TANK CAPACITY</h6>
-                                        <p class="disc">27 045 m3</p>
+                                        <p class="disc">86 000 m3</p>
                                     </div>
                                 </div>
                             </div>
@@ -65,7 +65,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">NUMBER OF TANKS</h6>
-                                        <p class="disc">23</p>
+                                        <p class="disc">27</p>
                                     </div>
                                 </div>
                             </div>
@@ -73,7 +73,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">TANK TYPE</h6>
-                                        <p class="disc">Mild Steel</p>
+                                        <p class="disc">Mild Steel, Heated tanks</p>
                                     </div>
                                 </div>
                             </div>
@@ -81,7 +81,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">TANK SIZES</h6>
-                                        <p class="disc">	from 50 to 4 000 m3</p>
+                                        <p class="disc">From 540 to 10 000 m3</p>
                                     </div>
                                 </div>
                             </div>
@@ -98,7 +98,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">MAXIMUM DRAFT</h6>
-                                        <p class="disc">7,5 m (25 ft)</p>
+                                        <p class="disc">10,5m (35 ft)</p>
                                     </div>
                                 </div>
                             </div>
@@ -106,7 +106,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">PRODUCTS</h6>
-                                        <p class="disc">Chemicals, vegetable oils, and high heat products (such as bitumen).</p>
+                                        <p class="disc">Chemicals and petroleum products, mineral and vegetable oils, oil additives and heated products.</p>
                                     </div>
                                 </div>
                             </div>
@@ -114,7 +114,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">SPECIAL HANDLING</h6>
-                                        <p class="disc">Heating and blanketing</p>
+                                        <p class="disc">Heatingg</p>
                                     </div>
                                 </div>
                             </div>
@@ -122,7 +122,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">PRODUCT IMPROVEMENT</h6>
-                                        <p class="disc">Dilution, additivation & in line blending</p>
+                                        <p class="disc">Filtering</p>
                                     </div>
                                 </div>
                             </div>
@@ -130,7 +130,7 @@ include "includes/header.php";
                                 <div class="service-details-card">
                                     <div class="details">
                                         <h6 class="title">ADDITIONAL SERVICES</h6>
-                                        <p class="disc">24/7 Marine operation</p>
+                                        <p class="disc">24/7 operation</p>
                                     </div>
                                 </div>
                             </div>
