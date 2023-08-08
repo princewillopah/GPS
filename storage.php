@@ -29,7 +29,7 @@
 
 
     <!-- rts about us section start -->
-  <div class="rts-about-us-area rts-section-gap">
+  <div class="rts-about-us-area rts-section-gap bg-white">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -60,18 +60,18 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
-                        <a href="service-details.html" class="thumbnail">
+                        <a href="storage-detail-terminal-3.php" class="thumbnail">
                             <img src="assets/images/project/38.jpg" alt="project">
                             
                         </a>
                         <div class="project-inner">
                             <div class="content">
                                 <p class="pre-title">Terminal-03</p>
-                                <a href="service-details.html">
+                                <a href="storage-detail-terminal-3.php">
                                     <h5 class="title">Le Havre</h5>
                                 </a>
                             </div>
-                            <div class="icon"> <a href="service-details.html"><i class="fa-thin fa-chevron-right"></i></a></div>
+                            <div class="icon"> <a href="storage-detail-terminal-3.php"><i class="fa-thin fa-chevron-right"></i></a></div>
                         </div>
                     </div>
                     <!-- single project area end -->
@@ -180,7 +180,7 @@
                         </a>
                         <div class="project-inner">
                             <div class="content">
-                                <p class="pre-title">Terminal-09</p>
+                                <p class="pre-title">Terminal-01</p>
                                 <a href="service-details.html">
                                     <h5 class="title">Murmansk</h5>
                                 </a>
@@ -214,6 +214,14 @@
         </div>
     </div>
     <!-- latest projects end -->
+
+  <!-- latest projects end -->
+    <div class="col-12  storage-caption">
+       <h5>By consistently providing secure and inventive storage options, we consistently go above and beyond to fulfill the requirements of our clients.</h5>
+       <p class="caption">For an immediate storage consultation, call us at +7-(968)-5248-200, or click to <a href="contact.php">"contact us"</a></p>
+    </div>
+
+
  <!-- ----------footer---------------------------------- -->
  <?php
 	$page ="storage";
