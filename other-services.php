@@ -28,7 +28,7 @@
     <!-- Bread-Crumb style two End -->
 
   <!-- rts about us section start -->
-  <div class="rts-about-us-area rts-section-gap">
+  <div class="rts-about-us-area rts-section-gap bg-white">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -40,21 +40,16 @@
                 <div class="col-lg-6 pl--30 pl_md--15 pl_sm--15 pt_md--60 pt_sm--80">
                     <div class="title-left-wrapper-home-two sal-animate mb--30" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                         <!-- <span class="pre">CAMBIO SCHEEPVAART BV features</span> -->
-                        <h2 class="title mt--10">Specialized Proficiency in  <br> Water Transportation </h2>
+                        <h2 class="title mt--10">Our comprehensive and  <br> cutting-edge service offerings  </h2>
                     </div>
                     <div class="about-six-inner-wrapper">
                         
-                                <p class="disc">                      
-                                CAMBIO SCHEEPVAART BV is a leading provider of transportation services across rivers, canals, and seaports throughout Europe and beyond. Our daily operations cater to esteemed customers from the high-quality chemical and mineral industry, positioning us as a crucial logistical link within the European economy and extending to overseas borders.
-                                </p>
-                                <p class="disc"> 
-                                Our Inland Shipping department operates from selected strategic locations within Europe waters and across Europe to the Asia and Caribbean waters.</p>
-                                <p class="disc">
-                                Our Rotterdam office primarily focuses on transporting (liquid) chemicals along the Antwerp-Rotterdam-Amsterdam (ARA) routes and the Rhine including Subleasing of storage tanks for needy Clients within the port regions. Meanwhile, our Houston office specializes in the transportation of finished mineral oil products along USA waterways and the need to render tank storage rental services through our JVA subleasing terminal owners. All our offices provide a comprehensive range of transportation modes and assistance in storage reservation bookings. What unifies our teams is their exceptional expertise in water transportation and logistics through streamlined communication, reliable coordination, and competitive pricing.
-                                </p>
-                                <p class="disc">
-                                CAMBIO SCHEEPVAART BV strives to establish long-term partnerships with both our private ship owners, Terminal owners and clients. Our commitment to excellence ensures efficient and dependable services for all parties involved.
-                                </p>
+                    <p class="disc">
+                            Our offerings support the success of your company, enhancing operational effectiveness and securing a competitive advantage. We tailor our services to align with your requirements and evolving changes, delivering solutions that foster your business expansion.
+
+                            </p>
+                            <p class="disc">GPS CHEMOIL LLC FZC TERMINAL-2 presents expansive storage sites strategically positioned in the Netherlands, France, and Russia. Our combined storage capacity exceeds 4,787,000 cubic meters (CBM), accommodating a wide range of liquid bulk items. Our facilities provide seamless integration and inventive service options to meet your needs
+</p>
                                
 
                     </div>

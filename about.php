@@ -28,8 +28,8 @@
     <!-- Bread-Crumb style two End -->
 
 
-
-    
+  
+   
     <!-- rts about area start -->
     <div class="rts-about-area-about rts-section-gap">
         <div class="container pb--45 plr_sm--15">
@@ -48,9 +48,11 @@
                         </div>
                         <div class="main-content-area-about-p">
                             <p class="disc">
-                            CAMBIO SCHEEPVAART BV is a leading global provider of maritime services and plays a crucial role in the worldwide energy supply chain. Our mission is to deliver energy to any part of the world, supporting the global economy and improving people's quality of life.
+                            Our offerings support the success of your company, enhancing operational effectiveness and securing a competitive advantage. We tailor our services to align with your requirements and evolving changes, delivering solutions that foster your business expansion.
+
                             </p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla earum tempore ipsa reiciendis fuga facilis magni dicta cumque, hic, accusantium adipisci quasi consequuntur eligendi, perferendis nostrum sunt eaque alias nemo!</p>
+                            <p>Koole presents expansive storage sites strategically positioned in the Netherlands, France, the UK, Spain, Portugal, Poland, and Italy. Our combined storage capacity exceeds 5,387,000 cubic meters (CBM), accommodating a wide range of liquid bulk items. Our facilities provide seamless integration and inventive service options to meet your needs
+</p>
 
                             <div class="authore-artea-wrapper">
                                 <a href="storage.php" class="rts-btn btn-primary">View our storage details</a>
