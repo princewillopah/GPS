@@ -61,261 +61,116 @@
 
 
     <!-- our service area start -->
-    <div class="rts-service-area rts-service-bg-8 bg_image rts-section-gap">
+    <div class="rts-service-area rts-service-bg-8 bg_image rts-section-gap services-style">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                     <div class="title-mid-wrapper-home-two sal-animate" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                        <span class="pre">Few Of Our Fleets</span>
-                        <h2 class="title mt--10">Find The Most Demanding Shipping Features We Provide</h2>
+                        <span class="pre">Our Services</span>
+                        <h2 class="title mt--10">Find The Most Demanding Services Features We Provide</h2>
                     </div>
                 </div>
             </div>
             <div class="row g-24 mt--30">
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- service area eight -->
-                    <div class="service-area-eight">
-                        <div class="thumbnail">
-                            <img src="assets/images/_shipping/1.png" alt="service">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 card-1" id="storage">
+                        <h4 class="title">Storage </h4>
+                        <!-- <p class="disc">Catalysts for change before fully tested markets are maintain wireless
+                            scenarios after intermandated applications predominate revolutionary.</p> -->
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>Incorporated capabilities for industrial distillation within the petrochemical sector.</span>
                         </div>
-                        <div class="badge-area">
-                            <span>De Ruyter</span>
-                           
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>The PID system is fine-tuned to efficiently distill clean fuel.</span>
                         </div>
-                        <div class="hov-area">
-                            <div class="check-area">
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>Name:</span>  De Ruyter</p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LENGTH:</span>  86.00 m </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>WIDTH :</span> 10.50 m </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>CLASS :</span> Stainless steel </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LOAD CAPACITY :</span> 1690 tons </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>TANK CAPACITY :</span> 1798 m </p>
-                                </div>
-
- 
-                            </div>
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>Facilitating the shift towards renewable energy goods.</span>
                         </div>
-                    </div>
-                    <!-- service area eight end -->
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- service area eight -->
-                    <div class="service-area-eight">
-                        <div class="thumbnail">
-                            <img src="assets/images/_shipping/2.png" alt="service">
-                        </div>
-                        <div class="badge-area">
-                            <span>Van Gogh</span>
-                        </div>
-                        <div class="hov-area">
-                            <div class="check-area">
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>Name: </span> Van Gogh  </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LENGTH: </span> 135,00 m  </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>WIDTH: </span> 15,00 m  </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>CLASS: </span> Coating   </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LOAD CAPACITY: </span> 6168 ton  </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>TANK CAPACITY: </span> 6819 m3   </p>
-                                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 card-1" id="processing-and-refining">
+                        <h4 class="title">Processing & Refining</h4>
+                            <!-- <p class="disc">Catalysts for change before fully tested markets are maintain wireless
+                                scenarios after intermandated applications predominate revolutionary.</p> -->
+                            <div class="single-banifits">
+                                <i class="far fa-check-circle"></i>
+                                <span>We use the latest diagnostic equipment</span>
                             </div>
-                        </div>
-                    </div>
-                    <!-- service area eight end -->
+                            <div class="single-banifits">
+                                <i class="far fa-check-circle"></i>
+                                <span>We are a member of Professional Service</span>
+                            </div>
+                            <div class="single-banifits">
+                                <i class="far fa-check-circle"></i>
+                                <span>Automotive service our clients receive</span>
+                            </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- service area eight -->
-                    <div class="service-area-eight">
-                        <div class="thumbnail">
-                            <img src="assets/images/_shipping/3.png" alt="service">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 card-1" id="blending-and-heating">
+                     <h4 class="title">Blending & Heating</h4>
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>Blending, mixing, and achieving homogeneity of products.</span>
                         </div>
-                        <div class="badge-area">
-                            <span>Marie Antoinette</span>
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>heating of the product.</span>
                         </div>
-                        <div class="hov-area">
-                            <div class="check-area">
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>Name:</span>  Marie Antoinette </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LENGTH:</span>  85.59m </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>WIDTH:</span>  10.46m </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>CLASS:</span>  coating </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LOAD CAPACITY:</span>  1507 tons </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>TANK CAPACITY:</span>  1819 m3 </p>
-                                </div>
-                            </div>
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>Implementing insulation strategies for specific energy efficiency goals in tanks</span>
                         </div>
-                    </div>
-                    <!-- service area eight end -->
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- service area eight -->
-                    <div class="service-area-eight">
-                        <div class="thumbnail">
-                            <img src="assets/images/_shipping/4.png" alt="service">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 card-1" id="speciality-services">
+                        <h4 class="title">Speciality Services</h4>
+                        <!-- <p class="disc">Catalysts for change before fully tested markets are maintain wireless
+                            scenarios after intermandated applications predominate revolutionary.</p> -->
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>Capturing vapors, using nitrogen blankets, and tailoring food storage solutions to meet specific client needs.</span>
                         </div>
-                        <div class="badge-area">
-                            <span>Victoire</span>
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>Providing assistance with documentation and customs-related processes.</span>
                         </div>
-                        <div class="hov-area">
-                            <div class="check-area">
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>Name: </span> Victoire </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LENGTH: </span> 135,00 m </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>WIDTH: </span> 17,56 m </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>CLASS:</span>  Coating </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LOAD CAPACITY: </span> 8674 ton </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>TANK CAPACITY: </span>8979 m3  </p>
-                                </div>
-                            </div>
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>A drum-filling process that is automated and streamlined.</span>
                         </div>
-                    </div>
-
-                    <!-- service area eight end -->
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- service area eight -->
-                    <div class="service-area-eight">
-                        <div class="thumbnail">
-                            <img src="assets/images/_shipping/5.png" alt="service">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 card-1" id="multimodal-logistics">
+                     <h4 class="title">Multimodal Logistics</h4>
+                        <!-- <p class="disc">Catalysts for change before fully tested markets are maintain wireless
+                            scenarios after intermandated applications predominate revolutionary.</p> -->
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>Adaptable import and export functionalities.</span>
                         </div>
-                        <div class="badge-area">
-                            <span>Sam Houston</span>
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>A comprehensive storage solution that includes localized rail, truck, and barge facilities all in one place.</span>
                         </div>
-                        <div class="hov-area">
-                             <div class="check-area">
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>Name: </span> Sam Houston </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LENGTH: </span> 135,00 m </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>WIDTH: </span> 11,44 m </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>CLASS: </span> Coating </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LOAD CAPACITY: </span> 4558 ton </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>TANK CAPACITY: </span> 5164 m3 </p>
-                                </div>
-                            </div>
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>Direct connectivity to terminals via pipelines.</span>
                         </div>
-                    </div>
-
-                    <!-- service area eight end -->
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- service area eight -->
-                    <div class="service-area-eight">
-                        <div class="thumbnail">
-                            <img src="assets/images/_shipping/6.png" alt="service">
+                <div class="col-lg-4 col-md-6 col-sm-12 col-12 card-1" id="transportation">
+                        <h4 class="title">Transportation</h4>
+                        <!-- <p class="disc">Catalysts for change before fully tested markets are maintain wireless
+                            scenarios after intermandated applications predominate revolutionary.</p> -->
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>Exclusive collection of trucks owned by the organization.</span>
                         </div>
-                        <div class="badge-area">
-                            <span>Buffalo Bayou</span>
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>Efficient and affordable filling and transportation solutions.</span>
                         </div>
-                        <div class="hov-area">
-                             <div class="check-area">
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>Name: </span> Buffalo Bayou </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LENGTH: </span> 110.00 m </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>WIDTH: </span> 11.40 m </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>CLASS: </span> coating </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>LOAD CAPACITY: </span> 2648 tons </p>
-                                </div>
-                                <div class="single-check">
-                                    <i class="fa-light fa-plus"></i>
-                                    <p><span>TANK CAPACITY: </span> 3021m3 _ </p>
-                                </div>
-                            </div>
+                        <div class="single-banifits">
+                            <i class="far fa-check-circle"></i>
+                            <span>Railway facilities designed for the loading and unloading of oils and fats.</span>
                         </div>
-                    </div>
-                    <!-- service area eight end -->
                 </div>
             </div>
         </div>
@@ -323,30 +178,7 @@
     <!-- our service area end -->
 
 
-<!-- rts service col 2 area start -->
-<div class="rts-service-two-col rts-section-gap2Bottom bg_about-f">
-    <div class="container-full">
-        <div class="main-wrapper-sevice-col-2">
-            <div class="left-image">
-                <img src="assets/images/_shipping/end.png" alt="image">
-            </div>
-            <div class="path-right">
-                <div class="content-wrapper">
-                    <!-- <div class="title-mid-wrapper-home-two left"> -->
-                        
-                        <h2 class="title" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800"> Delivering Your Needs: <br> Your Reliable Shipping Solution </h2>
-                    <!-- </div> -->
-                    <!-- <div class="single-wrapper"> -->
-                    
-                    <p class="disc"> CAMBIO SCHEEPVAART BV is comprised of a dedicated workforce of more than 40 professionals, who are stationed in our three offices located in France, Rotterdam and Houston. Our team members possess vast experience and specialized knowledge in the fields of tanker and inland shipping. With a profound understanding of the market, we collaborate closely with a trusted group of private ship owners. Through thorough communication with our clients, we deliver tailored and dependable solutions that cater to their specific transport needs.</p>
 
-                    <!-- </div> -->
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- rts service col 2 area end --> 
 
 <!--=========================footer =============================================-->
  <!-- ----------footer---------------------------------- -->

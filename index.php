@@ -311,7 +311,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">
-                        <a href="other-services.php#" class="thumbnail">
+                        <a href="other-services.php#storage" class="thumbnail">
                             <img src="assets/images/service/07.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
@@ -331,7 +331,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">
-                        <a href="other-services.php#" class="thumbnail">
+                        <a href="other-services.php#transportation" class="thumbnail">
                             <img src="assets/images/service/08.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
@@ -363,7 +363,7 @@
                             <!-- <p class="disc">
                                 Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
                             </p> -->
-                            <a href="other-services.php#" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
+                            <a href="other-services.php#multimodal-logistics" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <!-- single offer area end -->
@@ -375,7 +375,7 @@
                             <img src="assets/images/service/08.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="other-services.php#">
+                            <a href="other-services.php#speciality-services">
                                 <h5 class="title">
                                 Speciality Services
                                 </h5>
@@ -395,7 +395,7 @@
                             <img src="assets/images/service/09.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="other-services.php#">
+                            <a href="other-services.php#processing-and-refining">
                                 <h5 class="title">
                                 Processing & Refining
                                 </h5>
@@ -415,7 +415,7 @@
                             <img src="assets/images/service/07.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="other-services.php#">
+                            <a href="other-services.php#blending-and-heating">
                                 <h5 class="title">
                                 Blending & Heating
                                 </h5>

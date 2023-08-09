@@ -1,5 +1,7 @@
 .bg-white{background: #fff!important;}
-
+.main-col{color: #666699}
+// purple -- #666699  //  #33334d
+// violet -- #9900cc  //  #39004d
 
 .single-funfacts-about p.disc {
     font-weight: 600;
@@ -410,9 +412,33 @@ max-width: 55px;
 }
 
 // -------------------------------------------------------------------
-//    Shipping 
+//    other services 
 // -------------------------------------------------------------------
+.services-style{
 
+  span.pre{
+      
+  }
+  h2.title{
+      color: #666699;
+      width: 70%;
+      margin: 0 auto;
+  }
+  
+  div.card-1{
+      h4.title{color: #666699!important; } 
+    .single-banifits{
+         
+           display: flex;
+        align-items: top;
+          i{color: #666699; padding-top: 3px;}
+          span{
+              color: #33334d; margin-left: 5px;line-height: 18px;margin-bottom: 10px
+          }
+      } 
+  }
+  
+}
 // -------------------------------------------------------------------
 //    Shipping 
 // -------------------------------------------------------------------
