@@ -305,9 +305,13 @@
     <!-- rts about area end -->
 
      <!-- what we offer start -->
-     <div class="rts-offer-provide-section rts-section-gap">
+     <div class="rts-offer-provide-section rts-section-gap our-service">
         <div class="container">
             <div class="row g-24">
+                <div class="col-12">
+                    <h4>Our Services</h4>
+                    <p>Championing the progress of the energy transition to create a sustainable future.</p>
+                </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">

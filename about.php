@@ -31,7 +31,7 @@
   
    
     <!-- rts about area start -->
-    <div class="rts-about-area-about rts-section-gap">
+    <div class="rts-about-area-about rts-section-gap bg-white">
         <div class="container pb--45 plr_sm--15">
             <div class="row">
 
@@ -72,6 +72,141 @@
         </div>
     </div>
     <!-- rts about area end -->
+
+
+<!-- what we offer start -->
+     <div class="rts-offer-provide-section rts-section-gap our-service">
+        <div class="container">
+            <div class="row g-24">
+                <div class="col-12">
+                    <h4>Our Services</h4>
+                    <p>Championing the progress of the energy transition to create a sustainable future.</p>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="other-services.php#storage" class="thumbnail">
+                            <img src="assets/images/service/07.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="other-services.php#storage">
+                                <h5 class="title">
+                                Storage
+                                </h5>
+                            </a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#storage" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="other-services.php#transportation" class="thumbnail">
+                            <img src="assets/images/service/08.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="other-services.php#transportation">
+                                <h5 class="title">
+                                Transportation
+                                </h5>
+                            </a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#transportation" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="other-services.php#multimodal-logistics" class="thumbnail">
+                            <img src="assets/images/service/07.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="other-services.php#multimodal-logistics">
+                                <h5 class="title">
+                                Multimodal Logistics
+                                </h5>
+                            </a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#multimodal-logistics" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="other-services.php#speciality-services" class="thumbnail">
+                            <img src="assets/images/service/08.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="other-services.php#speciality-services">
+                                <h5 class="title">
+                                Speciality Services
+                                </h5>
+                            </a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#speciality-services" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="other-services.php#processing-and-refining" class="thumbnail">
+                            <img src="assets/images/service/09.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="other-services.php#processing-and-refining">
+                                <h5 class="title">
+                                Processing & Refining
+                                </h5>
+                            </a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#processing-and-refining" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="other-services.php#blending-and-heating" class="thumbnail">
+                            <img src="assets/images/service/07.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="other-services.php#blending-and-heating">
+                                <h5 class="title">
+                                Blending & Heating
+                                </h5>
+                            </a>
+                            <!-- <p class="disc">
+                                Dui lobortis scelerisque magna curabitur duis purus platea massa accumsan
+                            </p> -->
+                            <a href="other-services.php#blending-and-heating" class="rts-btn btn-transparent-service">View Service<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- what we offer end -->
+
 
     <!-- rts service area start -->
     <div class="service-abot-area rts-section-gap service-about-bg bg_image">
@@ -162,8 +297,8 @@
                         <div class="working-wrapper">
                             <div class="icon"></div>
                             <div class="content">
-                                <h3 class="main-title">Project Processing</h3>
-                                <p class="desc">Cursus euismod dictumst a non dis nisi sociosqu mauris.</p>
+                                <h3 class="main-title">Safety First</h3>
+                                <p class="desc">Our commitment to safety is unwavering. We prioritize the well-being of our employees, communities, and the environment above all else. Every action we take is guided by the principles of responsible and secure operations, ensuring that safety remains at the forefront of our endeavors.</p>
                             </div>
                         </div>
                     </div>
@@ -171,8 +306,8 @@
                         <div class="working-wrapper">
                             <div class="icon two"></div>
                             <div class="content">
-                                <h3 class="main-title">High Quality Products</h3>
-                                <p class="desc">Cursus euismod dictumst a non dis nisi sociosqu mauris.</p>
+                                <h3 class="main-title">Reliability and Excellence</h3>
+                                <p class="desc">We are dedicated to delivering the highest standards of reliability and excellence in all aspects of our operations. From maintaining the integrity of our storage facilities to providing top-tier customer service, we continuously strive to exceed expectations and earn the trust of our partners and stakeholders.</p>
                             </div>
                         </div>
                     </div>
@@ -180,8 +315,8 @@
                         <div class="working-wrapper">
                             <div class="icon three"></div>
                             <div class="content">
-                                <h3 class="main-title">Huge Choice Products</h3>
-                                <p class="desc">Cursus euismod dictumst a non dis nisi sociosqu mauris.</p>
+                                <h3 class="main-title">Sustainability and Innovation</h3>
+                                <p class="desc">We embrace innovation as a pathway to a more sustainable future. By leveraging cutting-edge technologies and adopting environmentally responsible practices, we aim to minimize our ecological footprint while fostering long-term sustainability in the petroleum industry.</p>
                             </div>
                         </div>
                     </div>
@@ -189,8 +324,8 @@
                         <div class="working-wrapper">
                             <div class="icon four"></div>
                             <div class="content">
-                                <h3 class="main-title">Quality Finished</h3>
-                                <p class="desc">Cursus euismod dictumst a non dis nisi sociosqu mauris.</p>
+                                <h3 class="main-title">Collaboration and Integrity</h3>
+                                <p class="desc">Collaboration is at the heart of our success. We value open communication, transparency, and teamwork both within our organization and with our valued clients. Our commitment to integrity ensures that every decision we make is guided by ethical principles, fostering enduring relationships built on trust and mutual respect</p>
                             </div>
                         </div>
                     </div>
@@ -201,88 +336,88 @@
     <!-- Working process end -->
 
  <!-- rts service area start -->
- <div class="service-abot-area rts-section-gap service-about-bg bg_image">
-        <div class="container-210">
-            <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-12  plr-sm">
-                    <div class="thumbnail-service-about">
-                        <img src="assets/images/_about/atb3.jpg" alt="service-image">
-                        <!-- <div class="vedio-icone">
-                            <a id="play-video" class="video-play-button" href="#">
-                                <span></span>
-                            </a>
-                            <div id="video-overlay" class="video-overlay">
-                                <a class="video-overlay-close">×</a>
+        <div class="service-abot-area rts-section-gap service-about-bg bg_image">
+                <div class="container-210">
+                    <div class="row align-items-center">
+                        <div class="col-xl-6 col-lg-12  plr-sm">
+                            <div class="thumbnail-service-about">
+                                <img src="assets/images/_about/atb3.jpg" alt="service-image">
+                                <!-- <div class="vedio-icone">
+                                    <a id="play-video" class="video-play-button" href="#">
+                                        <span></span>
+                                    </a>
+                                    <div id="video-overlay" class="video-overlay">
+                                        <a class="video-overlay-close">×</a>
+                                    </div>
+                                </div> -->
                             </div>
-                        </div> -->
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-12 pading-controler">
-                    <div class="service-about-wrapper">
-                        <div class="title-three-left">
-                            <span class="pre-title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800" style="display: block;">
-                                Core Features
-                            </span>
-                            <h3 class="title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
-                                Why Choose Us
-                            </h3>
                         </div>
-                        <div class="row mt--15 g-24">
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                <div class="single-service-sm">
-                                    <div class="icon">
-                                        <!-- <img src="assets/images/service/icon/01.svg" alt=""> -->
-                                        <img src="assets/images/_others/icon/3.png" alt="">
-                                    </div>
-                                    <p>Expert Teams</p>
+                        <div class="col-xl-6 col-lg-12 pading-controler">
+                            <div class="service-about-wrapper">
+                                <div class="title-three-left">
+                                    <span class="pre-title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800" style="display: block;">
+                                        Core Features
+                                    </span>
+                                    <h3 class="title" data-sal="slide-up" data-sal-delay="100" data-sal-duration="800">
+                                        Why Choose Us
+                                    </h3>
                                 </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                <div class="single-service-sm">
-                                    <div class="icon">
-                                        <img src="assets/images/_others/icon/2.png" alt="">
+                                <div class="row mt--15 g-24">
+                                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-service-sm">
+                                            <div class="icon">
+                                                <!-- <img src="assets/images/service/icon/01.svg" alt=""> -->
+                                                <img src="assets/images/_others/icon/3.png" alt="">
+                                            </div>
+                                            <p>Expert Teams</p>
+                                        </div>
                                     </div>
-                                    <p>Timely Delivery</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                <div class="single-service-sm">
-                                    <div class="icon">
-                                        <img src="assets/images/_others/icon/1.png" alt="">
+                                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-service-sm">
+                                            <div class="icon">
+                                                <img src="assets/images/_others/icon/2.png" alt="">
+                                            </div>
+                                            <p>Timely Delivery</p>
+                                        </div>
                                     </div>
-                                    <p>Modern Fleets</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                <div class="single-service-sm">
-                                    <div class="icon">
-                                        <img src="assets/images/service/icon/04.svg" alt="">
+                                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-service-sm">
+                                            <div class="icon">
+                                                <img src="assets/images/_others/icon/1.png" alt="">
+                                            </div>
+                                            <p>Modern Fleets</p>
+                                        </div>
                                     </div>
-                                    <p>Best Equipment</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                <div class="single-service-sm">
-                                    <div class="icon">
-                                        <img src="assets/images/service/icon/05.svg" alt="">
+                                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-service-sm">
+                                            <div class="icon">
+                                                <img src="assets/images/service/icon/04.svg" alt="">
+                                            </div>
+                                            <p>Best Equipment</p>
+                                        </div>
                                     </div>
-                                    <p>100% Guranty</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                <div class="single-service-sm">
-                                    <div class="icon">
-                                        <img src="assets/images/_others/icon/4.png" alt="">
+                                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-service-sm">
+                                            <div class="icon">
+                                                <img src="assets/images/service/icon/05.svg" alt="">
+                                            </div>
+                                            <p>100% Guranty</p>
+                                        </div>
                                     </div>
-                                    <p>Safe Rail</p>
+                                    <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                                        <div class="single-service-sm">
+                                            <div class="icon">
+                                                <img src="assets/images/_others/icon/4.png" alt="">
+                                            </div>
+                                            <p>Safe Rail</p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
     <!-- rts service area end -->
 
 
