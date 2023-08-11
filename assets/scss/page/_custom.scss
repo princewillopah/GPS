@@ -2,6 +2,7 @@
 .main-col{color: #666699}
 // purple -- #666699  //  #33334d
 // violet -- #9900cc  //  #39004d
+//teal     #004d4d   // #003333
 
 .single-funfacts-about p.disc {
     font-weight: 600;
@@ -361,6 +362,59 @@ max-width: 55px;
 
 }
 
+.rts-company-experties-area.rts-section-gap.home-seven{
+  .latest-project-horizental-title-wrapper{
+      .title{
+        color:#0C0A0A!important
+      }
+  }
+  h2.title{
+      color:#33334d
+  }
+  
+  .experties-area-inner {
+      padding: 48px 0;
+      border-top: 1px solid #ddd;
+      border-bottom: 1px solid #ddd;
+      margin-top: 50px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      .single-experties{
+         .counter-inner {
+          margin-left: 20px;
+          .title span.plus {
+            position: relative;
+            &::after{
+              position: absolute;
+              right: -25px;
+              top: 14px;
+              content: "+";
+              font-size: 36px;
+              color: #33334d;
+          }
+            }
+          } 
+          
+         &::after{
+                  position: absolute;
+                  content: "";
+                  height: 213%;
+                  width: 1px;
+                  background: #ddd;
+                  top: 50%;
+                  right: -70px;
+                  transform: translateY(-50%);
+           } 
+      } 
+      
+       
+      
+  }
+     
+  
+}
+
 // -------------------------------------------------------------------
 //    Storage
 // -------------------------------------------------------------------
@@ -446,6 +500,16 @@ max-width: 55px;
 // -------------------------------------------------------------------
 //    Shipping 
 // -------------------------------------------------------------------
+.logo-area {
+  max-width: 290px;
+}
+.main-footer-one-area .single-footer-inner .footer-title {
+  margin-bottom: 15px;
+}
+.main-footer-one-area .body.one p.disc {
+  margin-bottom: 23px;
+  margin-top: 20px;
+}
 
 // -------------------------------------------------------------------
 //    Shipping 

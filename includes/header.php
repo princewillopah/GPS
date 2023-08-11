@@ -45,7 +45,7 @@
                     <div class="header-main-wrapper">
                         <div class="logo-area">
                             <a href="index.html" class="logo">
-                                <img src="assets/images/logo/02.png" alt="image-logo">
+                                <img src="assets/images/_others/logo/logo.svg" alt="image-logo">
                             </a>
                         </div>
                         <!-- header right start -->
@@ -61,7 +61,7 @@
                             <div class="top">
                                 <div class="start-top">
                                     <div class="icon"><i class="fa-sharp fa-solid fa-bolt"></i></div>
-                                    <p>Express delivery and free returns within 24 hours</p>
+                                    <p>Elevating Excellence in Storage Solutions</p>
                                 </div>
                                 <div class="end-top">
                                     <div class="single-info">

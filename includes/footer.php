@@ -2,9 +2,9 @@
     <!-- rts footer area start -->
     <div class="rts-footer-area footer-one footer-bg bg_image">
         <div class="container">
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-lg-12">
-                    <!-- footer top -->
+                
                     <div class="footer-top-wrapper  ptb--80">
                         <a href="#" class="logo-area" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
                             <img src="assets/images/_others/logo/logo1x.svg" alt="blog-images">
@@ -20,9 +20,9 @@
                             </form>
                         </div>
                     </div>
-                    <!-- footer top end -->
+                   
                 </div>
-            </div>
+            </div> -->
             <div class="row">
                 <div class="col-lg-12">
                     <div class="main-footer-one-area ptb--80">
@@ -31,9 +31,12 @@
                                 <h6 class="footer-title">
                                     About Company
                                 </h6>
-                                <p class="disc">
-                                    Centric aplications productize before front end vortals visualize front end is
-                                    results and value added
+                                <a href="index.php" class="logo-area" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
+                                    <img src="assets/images/_others/logo/logo.svg" alt="blog-images">
+                                </a>
+                                <p class="disc" >
+                                Welcome to GPS CHEMOIL LLC FZC TERMINAL-2, where excellence meets petroleum storage. With a focus on safety, innovation, and sustainability, we're your trusted partner in secure energy solutions.
+                                 <!-- Our state-of-the-art facilities and expert team ensure efficient handling and storage of petroleum products. Join us in shaping the future of energy storage -->
                                 </p>
                                 <!-- <div class="social-wrapper-one">
                                     <ul>
@@ -75,7 +78,7 @@
                                         <i class="fa-sharp fa-solid fa-right"></i>
                                         About Us
                                     </a>
-                                    <a href="services.php" class="single  <?php if ($page == 'rail') { echo 'current'; } ?>">
+                                    <a href="other-services.php" class="single  <?php if ($page == 'other-services') { echo 'current'; } ?>">
                                         <i class="fa-sharp fa-solid fa-right"></i>
                                         Our Services
                                     </a>

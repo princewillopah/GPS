@@ -182,7 +182,6 @@
 // custom
 // =======================================================================================
 
-
 .ag-courses_box {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -228,7 +227,7 @@
 }
 .ag-courses-item_title {
   min-height: 87px;
-  margin: 0 0 25px;
+  margin: 0 0 2px;
 
   overflow: hidden;
 
@@ -245,6 +244,32 @@
 
   z-index: 2;
   position: relative;
+    
+    .single-tab-content-one{
+        .jurney-from {
+            display: flex;
+            align-items: center;
+            gap: 40px;
+            margin-bottom: 30px;
+            .right-jr .single {
+                    margin-bottom: 7px;
+             display: flex;
+                    .fa-solid{color:#39004d;}
+                    span{
+                        font-weight: 400;
+                        font-size: 16px; 
+                        line-height: 20px;
+                        color: #777;
+                        &.inner{margin-right: 5px;
+                            color:#33334d;
+                            font-weight: 900;
+                            // marg
+                        }
+                    }
+                }
+        }
+    }
+    
 }
 .ag-courses-item_date {
   font-weight: bold;
@@ -257,7 +282,7 @@
 .ag-courses-item_bg {
   height: 128px;
   width: 128px;
-  background-color: #f9b234;
+  background-color: #fff;
 
   z-index: 1;
   position: absolute;

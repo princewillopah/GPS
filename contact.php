@@ -147,14 +147,32 @@ if(filter_has_var(INPUT_POST,'submit')){
                       <div class="ag-courses-item_bg"></div>
               
                       <div class="ag-courses-item_title">
-                        UX/UI Web-Design&#160;+ Mobile Design
+                      HEAD OFFICE REGISTRATION
                       </div>
               
                       <div class="ag-courses-item_date-box">
-                        Start:
-                        <span class="ag-courses-item_date">
-                          04.11.2022
-                        </span>
+                          <div class="single-tab-content-one">
+                                        <div class="jurney-from">
+                                            <div class="right-jr">
+                                                <div class="single">
+                                                    <i class="fa-solid fa-map-marker"></i>
+                                                    <span> <span class="inner">Address:</span> 148 Rue Saint-Honoré, 75001 Paris, France (3rd Floor Apt 54) Numéro Siret :48325210200015 (siège de l'entreprise)</span>
+                                                </div>
+                                                <div class="single">
+                                                    <i class="fa-solid fa-code"></i>
+                                                    <span><span class="inner">Code NAF/APE:</span>5040Z</span>
+                                                </div>
+                                                <div class="single">
+                                                    <i class="fa-solid fa-phone"></i>
+                                                    <span><span class="inner">Information Line:</span>+33 7 56 75 79 27</span>
+                                                </div>
+                                                <div class="single">
+                                                    <i class="fa-solid fa-envelope"></i>
+                                                    <span><span class="inner">Email:</span>info@cambioscheepvaart.nl</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                          </div>
                       </div>
                     </div>
                   </div>
@@ -192,8 +210,6 @@ if(filter_has_var(INPUT_POST,'submit')){
                       </div>
                     </div>
                   </div>
-          
-
 
                 </div>
               </div>

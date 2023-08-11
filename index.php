@@ -9,7 +9,7 @@
 <!-- banner start -->
    <!-- banner start -->
    <div id="home" class="rts-banner-main-area-swiper home-seven">
-        <div class="banner-social-area">
+        <!-- <div class="banner-social-area">
             <div class="inner">
                 <ul class="social-wrapper">
                     <li data-sal="slide-up" data-sal-delay="100" data-sal-duration="800"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
@@ -20,7 +20,7 @@
                 <p class="divider"></p>
                 <p class="content"> <span>Follow</span> <span>Us</span> </p>
             </div>
-        </div>
+        </div> -->
         <!-- Slider main container -->
         <div class="swiper-container-h2">
             <!-- Additional required wrapper -->
@@ -41,20 +41,20 @@
                                 <div class="col-lg-12">
                                     <div class="banner-one-wrapper ptb--110">
                                         <span class="b_one-pre" data-sal="slide-up" data-sal-delay="50" data-sal-duration="800">
-                                            Hospitality & Leisure
+                                        Fueled Future
                                         </span>
                                         <h1 class="title-banner" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                                            Excellence and <br>
-                                            built into every <br>
-                                            design.
+                                        Empowering Energy<br>
+                                        Solutions for <br>
+                                        Tomorrow's Needs
                                         </h1>
-                                        <p class="desc" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">Factory companies employ a large number of people from factory workers & <br>
-                                            supervisors to managers and executives.</p>
+                                        <!-- <p class="desc" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">Factory companies employ a large number of people from factory workers & <br>
+                                            supervisors to managers and executives.</p> -->
                                         <div class="button-group-area mt--40" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800">
-                                            <a href="#" class="rts-btn btn-seconday p-short">
-                                                See Projects <i class="fa-regular fa-arrow-up-right"></i>
+                                            <a href="contact.php" class="rts-btn btn-seconday p-short">
+                                                Contact Us <i class="fa-regular fa-arrow-up-right"></i>
                                             </a>
-                                            <a href="#" class="rts-btn btn-seconday">
+                                            <a href="other-services.php" class="rts-btn btn-seconday">
                                                 Our Service
                                             </a>
                                         </div>
@@ -77,20 +77,20 @@
                                 <div class="col-lg-12">
                                     <div class="banner-one-wrapper ptb--110">
                                         <span class="b_one-pre" data-sal="slide-up" data-sal-delay="50" data-sal-duration="800">
-                                            Hospitality & Leisure
+                                        Excellence Ahead
                                         </span>
                                         <h1 class="title-banner" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                                            We’re Providing <br>
-                                            Industry Roofing <br>
-                                            Solution
+                                        Driving Excellence <br>
+                                        in Petroleum Storage <br>
+                                        and Logistics
                                         </h1>
-                                        <p class="desc" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">Factory companies employ a large number of people from factory workers & <br>
-                                            supervisors to managers and executives.</p>
+                                        <!-- <p class="desc" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">Factory companies employ a large number of people from factory workers & <br>
+                                            supervisors to managers and executives.</p> -->
                                         <div class="button-group-area mt--40" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800">
-                                            <a href="#" class="rts-btn btn-seconday p-short">
-                                                See Projects <i class="fa-regular fa-arrow-up-right"></i>
+                                            <a href="contact.php" class="rts-btn btn-seconday p-short">
+                                                Contact Us <i class="fa-regular fa-arrow-up-right"></i>
                                             </a>
-                                            <a href="#" class="rts-btn btn-seconday">
+                                            <a href="other-services.php" class="rts-btn btn-seconday">
                                                 Our Service
                                             </a>
                                         </div>
@@ -113,20 +113,20 @@
                                 <div class="col-lg-12">
                                     <div class="banner-one-wrapper ptb--110">
                                         <span class="b_one-pre" data-sal="slide-up" data-sal-delay="50" data-sal-duration="800">
-                                            Hospitality & Leisure
+                                        Secure Synergy
                                         </span>
                                         <h1 class="title-banner" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                                            We’re Providing <br>
-                                            Building Leading <br>
-                                            Solution
+                                        Your Partner in Secure,<br>
+                                        Sustainable, and <br>
+                                        Smart Petroleum Operations
                                         </h1>
-                                        <p class="desc" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">Factory companies employ a large number of people from factory workers & <br>
-                                            supervisors to managers and executives.</p>
-                                        <div class="button-group-area mt--40" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800">
-                                            <a href="#" class="rts-btn btn-seconday p-short">
-                                                See Projects <i class="fa-regular fa-arrow-up-right"></i>
+                                        <!-- <p class="desc" data-sal="slide-up" data-sal-delay="200" data-sal-duration="800">Factory companies employ a large number of people from factory workers & <br>
+                                            supervisors to managers and executives.</p> -->
+                                            <div class="button-group-area mt--40" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800">
+                                            <a href="contact.php" class="rts-btn btn-seconday p-short">
+                                                Contact Us <i class="fa-regular fa-arrow-up-right"></i>
                                             </a>
-                                            <a href="#" class="rts-btn btn-seconday">
+                                            <a href="other-services.php" class="rts-btn btn-seconday">
                                                 Our Service
                                             </a>
                                         </div>
