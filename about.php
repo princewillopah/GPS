@@ -7,7 +7,7 @@
 
  <!-- Bread-Crumb style two -->
     <!-- rts breadcrumba area start -->
-    <div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb-about bg_image">
+    <div class="rts-bread-crumb-area ptb--200 ptb_sm--100 bg-breadcrumb-about bg_image">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -64,7 +64,7 @@
 
                 <div class="col-lg-5">
                     <div class="thumbnail-area-about">
-                        <img src="assets/images/_about/cap.png" alt="about-area">
+                        <img src="assets/images/_about/abt.png" alt="about-area">
                     </div>
                 </div>
 

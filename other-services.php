@@ -7,7 +7,7 @@
 
  <!-- Bread-Crumb style two -->
     <!-- rts breadcrumba area start -->
-    <div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb-ship bg_image">
+    <div class="rts-bread-crumb-area ptb--200 ptb_sm--100 bg-breadcrumb-other-serives-bg bg_image">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -33,7 +33,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="thumbnail-about-six">
-                        <img class="image-lg" src="assets/images/_shipping/abt.png" alt="about-image">
+                        <img class="image-lg" src="assets/images/_storage/other-service-about.png" alt="about-image">
                         <!-- <img class="image-sm" src="assets/images/about/13.png" alt="about-image"> -->
                     </div>
                 </div>

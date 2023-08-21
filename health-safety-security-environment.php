@@ -8,23 +8,11 @@
 
  <!-- Bread-Crumb style two -->
     <!-- rts breadcrumba area start -->
-    <div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb-seq bg_image">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- bread crumb inner wrapper -->
-                    <div class="breadcrumb-inner text-center">
-                        <h1 class="title">Safety, Environment and Quality</h1>
-                        <div class="meta">
-                        <a href="index.php" class="prev">Home /</a>
-                            <a href="#" class="next">Safety, Environment and Quality</a>
-                        </div>
-                    </div>
-                    <!-- bread crumb inner wrapper end -->
-                </div>
-            </div>
-        </div>
-    </div>
+   
+    <?php
+        $h1 = 'Safety, Environment and Quality';
+        include "includes/hsse.php";
+     ?>
     <!-- rts breadcrumba area end -->
     <!-- Bread-Crumb style two End -->
 
@@ -39,7 +27,7 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="banner-horizental" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
-                                    <img src="assets/images/_seq/big.jpg" alt="full_screen-image">
+                                    <img src="assets/images/_seq/abt.png" alt="full_screen-image">
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -62,39 +50,17 @@
                                 <div class="row ms-woo-feed" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
                                     <div class="col-lg-3 col-md-6">
                                         <div class="blog-single-two-wrapper shop">
-                                            <div class="image-area">
-                                                <a href="HSSE-health.php" class="thumbnail">
-                                                    <img src="assets/images/shop/shop-01.jpg" alt="blog-image">
-                                                </a>
-                                            </div>
                                             <div class="inner">
-                                                <a href="HSSE-health.php">
-                                                    <h5 class="title"> Health</h5>
+                                                <a href="HSSE-health-and-safety.php">
+                                                    <h5 class="title"> Health & Safety</h5>
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
+ 
                                     <div class="col-lg-3 col-md-6">
                                         <div class="blog-single-two-wrapper shop">
-                                            <div class="image-area">
-                                                <a href="HSSE-safety.php" class="thumbnail">
-                                                    <img src="assets/images/shop/shop-02.jpg" alt="blog-image">
-                                                </a>
-                                            </div>
-                                            <div class="inner">
-                                                <a href="HSSE-safety.php">
-                                                    <h5 class="title"> Safety</h5>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-6">
-                                        <div class="blog-single-two-wrapper shop">
-                                            <div class="image-area">
-                                                <a href="HSSE-security.php" class="thumbnail">
-                                                    <img src="assets/images/shop/shop-03.jpg" alt="blog-image">
-                                                </a>
-                                            </div>
+                                            </div> 
                                             <div class="inner">
                                                 <a href="HSSE-security.php">
                                                     <h5 class="title"> Security</h5>
@@ -104,11 +70,6 @@
                                     </div>
                                     <div class="col-lg-3 col-md-6">
                                         <div class="blog-single-two-wrapper shop">
-                                            <div class="image-area">
-                                                <a href="HSSE-environment.php" class="thumbnail">
-                                                    <img src="assets/images/shop/shop-04.jpg" alt="blog-image">
-                                                </a>
-                                            </div>
                                             <div class="inner">
                                                 <a href="HSSE-environment.php">
                                                     <h5 class="title">Environment</h5>
@@ -116,6 +77,16 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="blog-single-two-wrapper shop">
+                                            <div class="inner">
+                                                <a href="HSSE-sustainability.php">
+                                                    <h5 class="title"> Sustainability</h5>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                 </div>
                             </section>
                         </div>

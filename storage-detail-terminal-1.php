@@ -8,23 +8,14 @@ include "includes/header.php";
 
 <!-- Bread-Crumb style two -->
 <!-- rts breadcrumba area start -->
-<div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb-about bg_image">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <!-- bread crumb inner wrapper -->
-                <div class="breadcrumb-inner text-center">
-                    <h1 class="title">Murmansk Terminal</h1>
-                    <div class="meta">
-                    <a href="index.php" class="prev">Home /</a>
-                        <a href="storage.php" class="next">Storage</a>
-                    </div>
-                </div>
-                <!-- bread crumb inner wrapper end -->
-            </div>
-        </div>
-    </div>
-</div>
+
+
+
+<?php
+$h1 = 'Murmansk Terminal';
+// $page ="storage";
+include "includes/storage-detail-terminal-bg.php";
+?>
 <!-- rts breadcrumba area end -->
 <!-- Bread-Crumb style two End -->
     

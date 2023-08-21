@@ -79,18 +79,18 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
-                        <a href="service-details.html" class="thumbnail two">
+                        <a href="storage-detail-terminal-2.php" class="thumbnail two">
                             <img src="assets/images/project/39.jpg" alt="project">
                           
                         </a>
                         <div class="project-inner">
                             <div class="content">
                                 <p class="pre-title">Terminal-02</p>
-                                <a href="service-details.html">
+                                <a href="storage-detail-terminal-2.php">
                                     <h5 class="title">Marseille</h5>
                                 </a>
                             </div>
-                            <div class="icon"> <a href="service-details.html"><i class="fa-thin fa-chevron-right"></i></a></div>
+                            <div class="icon"> <a href="storage-detail-terminal-2.php"><i class="fa-thin fa-chevron-right"></i></a></div>
                         </div>
                     </div>
                     <!-- single project area end -->
@@ -98,18 +98,18 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
-                        <a href="service-details.html" class="thumbnail three">
+                        <a href="storage-detail-terminal-5.php" class="thumbnail three">
                             <img src="assets/images/project/40.jpg" alt="project">
                          
                         </a>
                         <div class="project-inner">
                             <div class="content">
                                 <p class="pre-title">Terminal-05</p>
-                                <a href="service-details.html">
+                                <a href="storage-detail-terminal-5.php">
                                     <h5 class="title">Fos-sur-Mer</h5>
                                 </a>
                             </div>
-                            <div class="icon"> <a href="service-details.html"><i class="fa-thin fa-chevron-right"></i></a></div>
+                            <div class="icon"> <a href="storage-detail-terminal-5.php"><i class="fa-thin fa-chevron-right"></i></a></div>
                         </div>
                     </div>
                     <!-- single project area end -->
@@ -117,18 +117,18 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
-                        <a href="service-details.html" class="thumbnail">
+                        <a href="storage-detail-terminal-4.php" class="thumbnail">
                             <img src="assets/images/project/38.jpg" alt="project">
                             
                         </a>
                         <div class="project-inner">
                             <div class="content">
                                 <p class="pre-title">Terminal-04</p>
-                                <a href="service-details.html">
+                                <a href="storage-detail-terminal-4.php">
                                     <h5 class="title">Rotterdam Pernis</h5>
                                 </a>
                             </div>
-                            <div class="icon"> <a href="service-details.html"><i class="fa-thin fa-chevron-right"></i></a></div>
+                            <div class="icon"> <a href="storage-detail-terminal-4.php"><i class="fa-thin fa-chevron-right"></i></a></div>
                         </div>
                     </div>
                     <!-- single project area end -->
@@ -136,18 +136,18 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
-                        <a href="service-details.html" class="thumbnail two">
+                        <a href="storage-detail-terminal-7.php" class="thumbnail two">
                             <img src="assets/images/project/39.jpg" alt="project">
                           
                         </a>
                         <div class="project-inner">
                             <div class="content">
                                 <p class="pre-title">Terminal-07</p>
-                                <a href="service-details.html">
+                                <a href="storage-detail-terminal-7.php">
                                     <h5 class="title">Vlissingen (Flushing)</h5>
                                 </a>
                             </div>
-                            <div class="icon"> <a href="service-details.html"><i class="fa-thin fa-chevron-right"></i></a></div>
+                            <div class="icon"> <a href="storage-detail-terminal-7.php"><i class="fa-thin fa-chevron-right"></i></a></div>
                         </div>
                     </div>
                     <!-- single project area end -->
@@ -155,18 +155,18 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
-                        <a href="service-details.html" class="thumbnail three">
+                        <a href="storage-detail-terminal-6.php" class="thumbnail three">
                             <img src="assets/images/project/40.jpg" alt="project">
                          
                         </a>
                         <div class="project-inner">
                             <div class="content">
                                 <p class="pre-title">Terminal-06</p>
-                                <a href="service-details.html">
+                                <a href="storage-detail-terminal-6.php">
                                     <h5 class="title">Maasvlakte</h5>
                                 </a>
                             </div>
-                            <div class="icon"> <a href="service-details.html"><i class="fa-thin fa-chevron-right"></i></a></div>
+                            <div class="icon"> <a href="storage-detail-terminal-6.php"><i class="fa-thin fa-chevron-right"></i></a></div>
                         </div>
                     </div>
                     <!-- single project area end -->
@@ -174,18 +174,18 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
-                        <a href="service-details.html" class="thumbnail two">
+                        <a href="storage-detail-terminal-1.php" class="thumbnail two">
                             <img src="assets/images/project/39.jpg" alt="project">
                           
                         </a>
                         <div class="project-inner">
                             <div class="content">
                                 <p class="pre-title">Terminal-01</p>
-                                <a href="service-details.html">
+                                <a href="storage-detail-terminal-1.php">
                                     <h5 class="title">Murmansk</h5>
                                 </a>
                             </div>
-                            <div class="icon"> <a href="service-details.html"><i class="fa-thin fa-chevron-right"></i></a></div>
+                            <div class="icon"> <a href="storage-detail-terminal-1.php"><i class="fa-thin fa-chevron-right"></i></a></div>
                         </div>
                     </div>
                     <!-- single project area end -->
@@ -193,18 +193,18 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
-                        <a href="service-details.html" class="thumbnail three">
+                        <a href=storage-detail-terminal-8.php" class="thumbnail three">
                             <img src="assets/images/project/40.jpg" alt="project">
                          
                         </a>
                         <div class="project-inner">
                             <div class="content">
                                 <p class="pre-title">Terminal-08</p>
-                                <a href="service-details.html">
+                                <a href=storage-detail-terminal-8.php">
                                     <h5 class="title">Vladivostok</h5>
                                 </a>
                             </div>
-                            <div class="icon"> <a href="service-details.html"><i class="fa-thin fa-chevron-right"></i></a></div>
+                            <div class="icon"> <a href=storage-detail-terminal-8.php"><i class="fa-thin fa-chevron-right"></i></a></div>
                         </div>
                     </div>
                     <!-- single project area end -->
