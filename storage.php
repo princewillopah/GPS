@@ -7,7 +7,7 @@
 
  <!-- Bread-Crumb style two -->
     <!-- rts breadcrumba area start -->
-    <div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb-about bg_image">
+    <div class="rts-bread-crumb-area ptb--200 ptb_sm--100 bg-breadcrumb-about bg_image">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -61,7 +61,7 @@
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
                         <a href="storage-detail-terminal-3.php" class="thumbnail">
-                            <img src="assets/images/project/38.jpg" alt="project">
+                            <img src="assets/images/_storage/tanks/03-sm.png" alt="project">
                             
                         </a>
                         <div class="project-inner">
@@ -80,7 +80,7 @@
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
                         <a href="storage-detail-terminal-2.php" class="thumbnail two">
-                            <img src="assets/images/project/39.jpg" alt="project">
+                            <img src="assets/images/_storage/tanks/02-sm.png" alt="project">
                           
                         </a>
                         <div class="project-inner">
@@ -99,7 +99,7 @@
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
                         <a href="storage-detail-terminal-5.php" class="thumbnail three">
-                            <img src="assets/images/project/40.jpg" alt="project">
+                            <img src="assets/images/_storage/tanks/05-sm.png" alt="project">
                          
                         </a>
                         <div class="project-inner">
@@ -118,7 +118,7 @@
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
                         <a href="storage-detail-terminal-4.php" class="thumbnail">
-                            <img src="assets/images/project/38.jpg" alt="project">
+                            <img src="assets/images/_storage/tanks/04-sm.png" alt="project">
                             
                         </a>
                         <div class="project-inner">
@@ -137,7 +137,7 @@
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
                         <a href="storage-detail-terminal-7.php" class="thumbnail two">
-                            <img src="assets/images/project/39.jpg" alt="project">
+                            <img src="assets/images/_storage/tanks/07-sm.png" alt="project">
                           
                         </a>
                         <div class="project-inner">
@@ -156,7 +156,7 @@
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
                         <a href="storage-detail-terminal-6.php" class="thumbnail three">
-                            <img src="assets/images/project/40.jpg" alt="project">
+                            <img src="assets/images/_storage/tanks/06-sm.png" alt="project">
                          
                         </a>
                         <div class="project-inner">
@@ -175,7 +175,7 @@
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
                         <a href="storage-detail-terminal-1.php" class="thumbnail two">
-                            <img src="assets/images/project/39.jpg" alt="project">
+                            <img src="assets/images/_storage/tanks/01-sm.png" alt="project">
                           
                         </a>
                         <div class="project-inner">
@@ -193,18 +193,18 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <!-- single project area start -->
                     <div class="rts-single-project-one">
-                        <a href=storage-detail-terminal-8.php" class="thumbnail three">
-                            <img src="assets/images/project/40.jpg" alt="project">
+                        <a href="storage-detail-terminal-8.php" class="thumbnail three">
+                            <img src="assets/images/_storage/tanks/08-sm.png" alt="project">
                          
                         </a>
                         <div class="project-inner">
                             <div class="content">
                                 <p class="pre-title">Terminal-08</p>
-                                <a href=storage-detail-terminal-8.php">
+                                <a href="storage-detail-terminal-8.php">
                                     <h5 class="title">Vladivostok</h5>
                                 </a>
                             </div>
-                            <div class="icon"> <a href=storage-detail-terminal-8.php"><i class="fa-thin fa-chevron-right"></i></a></div>
+                            <div class="icon"> <a href="storage-detail-terminal-8.php"><i class="fa-thin fa-chevron-right"></i></a></div>
                         </div>
                     </div>
                     <!-- single project area end -->
@@ -218,7 +218,7 @@
   <!-- latest projects end -->
     <div class="col-12  storage-caption">
        <h5>By consistently providing secure and inventive storage options, we consistently go above and beyond to fulfill the requirements of our clients.</h5>
-       <p class="caption">For an immediate storage consultation, call us at +7-(968)-5248-200, or click to <a href="contact.php">"contact us"</a></p>
+       <p class="caption">For an immediate storage consultation, call us at 971 9 678 4403, or click to <a href="contact.php">"contact us"</a></p>
     </div>
 
 

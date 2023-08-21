@@ -149,8 +149,8 @@
       
     <button class="close-icon-menu"><i class="far fa-times"></i></button>
         <!-- inner menu area desktop start -->
-        <div class="inner-main-wrapper-desk d-none">
-            <div class="thumbnail">
+        <div class="inner-main-wrapper-desk ">
+            <!-- <div class="thumbnail">
                 <img src="assets/images/banner/04.jpg" alt="elevate">
             </div>
             <div class="inner-content">
@@ -162,7 +162,97 @@
                     <h4 class="title">Got a project in mind?</h4>
                     <a href="contact.html" class="rts-btn btn-seconday">Let's talk</a>
                 </div>
-            </div>
+            </div> -->
+          <!-- <form id="contact" action="#" class="appoinment-form mt--40"> -->
+         
+          <?php
+
+$msg = "";
+$msgClass = "";
+//check for submission
+if(filter_has_var(INPUT_POST,'submit')){
+    //get from data
+    $name = htmlspecialchars($_POST['name']);
+    $email = htmlspecialchars($_POST['email']);
+    $message = htmlspecialchars($_POST['message']);
+    // $phone = htmlspecialchars($_POST['phone']);
+    // $subject = htmlspecialchars($_POST['subject']);
+
+    //check if these fields are  NOT empty
+  if(!empty($name) && !empty($email) && !empty($message)){//passed
+          //chek for valid email
+          if(filter_var($email,FILTER_VALIDATE_EMAIL)===false){//failed
+                          $msg = 'Please, use a valid email';
+                          $msgClass = "alert-danger";
+          }else{//fpassed
+                //main stuff
+            $toEmail = "info@cambioscheepvaart.nl";
+            $subject = "Contact Request From ".$name;
+
+            // $body = "<h2>Contact Request</h2>
+            //          <h4>Name: ".$name." </h4>
+            //          <h4>Email: ".$email." </h4>
+            //          <h4>Message: ".$message." </h4>";
+
+          $body = "<div style='background:rgb(240,241,243); padding:0px'>
+                      <h2 style='background:teal; padding:20px;color:white'>Contact Message From  ".$name."</h2>
+                      <div style='padding:0px 40px 50px 30px'>
+                        <h4 style='color:teal; font-weight:500;'><span style='color:darkblue; font-weight:bold'>Name:</span> ".$name." </h4>
+                        <h4 style='color:teal; font-weight:500'><span style='color:darkblue; font-weight:bold'>Email:</span> ".$email." </h4>                      
+                        <h4 style='color:teal; font-weight:500'><span style='color:darkblue; font-weight:bold'>Message:</span> ".$message." </h4>
+                      </div>
+                  </div>";
+            $headers = "MIME-Version: 1.0"."\r\n";
+            $headers .= "Content-Type:text/html;charset=UTF-8"."\r\n";
+            $headers .= "From: ".$name."<".$email.">"."\r\n";//additional header
+
+            if(mail($toEmail,$subject,$body,$headers)){//passed
+                            $msg = 'Your Message has been received, '.$name.'. We will get back to you shortly';
+                            // $msgClass = "alert-success";
+                             $msgClass = "alert-custom-success";
+            }else{
+                            $msg = 'Sorry, Something went wrong';
+                            $msgClass = "alert-danger";
+            }//end sending if
+          }//end if for emptiness
+  }else{//failed
+        $msg = 'Please, fill in all fields';
+        $msgClass = "alert-danger";
+  }//end if for emptiness
+}// end parent if
+
+?>
+         
+         
+          <?php if($msg != ""):?>
+                            <div id="notification" class="notification">
+                                    <?php  echo $msg; ?>
+                                </div>
+                    <?php endif; ?> 
+
+
+                        <div class="title-mid-wrapper-home-two" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
+                            <span class="pre">Get In Touch</span>
+                            <h2 class="title">Let’s Get in Touch</h2>
+                        </div>
+
+            <form   id="contact"  action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST" class="appoinment-form mt--40"
+                        novalidate="novalidate" onsubmit="showNotification();">
+                <div class="input-half-wrapper">
+                    <div class="single-input">
+                        <!-- <input type="text" placeholder="Your Name" required> -->
+                        <input type="text" placeholder="Your name" id="name" name="name"   value="<?php echo isset($_POST['name']) ? $name: '';?>">
+                    </div>
+                    <div class="single-input">
+                        <!-- <input type="email" placeholder="Email Address" required> -->
+                        <input type="email" placeholder="Email address" name="email" required  value="<?php echo isset($_POST['email']) ? $email: '';?>">
+                    </div>
+                </div>
+
+                <textarea class="form-control mb--30 mt--25" id="message" name="message" placeholder="Write a message"><?php echo isset($_POST['message']) ? $message: '';?></textarea>
+                <!-- <button type="submit" class="rts-btn btn-primary">SUBMIT MESSAGE</button> -->
+                <input type="submit" class="rts-btn btn-primary" value="Send a Message" name="submit" >
+            </form>
         </div>
         <!-- mobile menu area start -->
         <div class="mobile-menu">

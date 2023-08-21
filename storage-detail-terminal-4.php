@@ -37,7 +37,7 @@ include "includes/storage-detail-terminal-bg.php";
                     <!-- service details left area start -->
                     <div class="service-detials-step-1">
                         <div class="thumbnail">
-                            <img src="assets/images/service/15.jpg" alt="elevate-area">
+                            <img src="assets/images/_storage/tanks/04-lg.png" alt="elevate-area">
                         </div>
                         <h4 class="title">Rotterdam Pernis Refinery: Energizing Global Industry</h4>
                         <p class="disc">
@@ -127,11 +127,10 @@ include "includes/storage-detail-terminal-bg.php";
                             </div>
                         </div>
 
-                                <!-- latest projects end -->
-                                <div class="col-12  storage-caption">
-                                    <h5>By consistently providing secure and inventive storage options, we consistently go above and beyond to fulfill the requirements of our clients.</h5>
-                                    <p class="caption">For an immediate storage consultation, call us at +7-(968)-5248-200, or click to <a href="contact.php">"contact us"</a></p>
-                                </div>
+                        <?php
+                            // $page ="storage";
+                            include "includes/storage-detail-callback.php";
+                        ?>
 
 
                     </div>

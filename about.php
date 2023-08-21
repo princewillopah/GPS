@@ -278,7 +278,7 @@
                         </div>
                         <div class="col-xl-6 col-lg-12  plr-sm">
                             <div class="thumbnail-service-about">
-                                <img src="assets/images/_about/atb3.jpg" alt="service-image">
+                                <img src="assets/images/_about/abt3.png" alt="service-image">
 
                             </div>
                         </div>
@@ -315,7 +315,8 @@
                         <div class="single-experties">
                             <!-- icon area start -->
                             <div class="icon-area">
-                                <img src="assets/images/fun-facts/icon/11.png" alt="icon">
+                                <!-- <img src="assets/images/fun-facts/icon/11.png" alt="icon"> -->
+                                <img src="assets/images/fun-facts/icon/12.png" alt="icon">
                             </div>
                             <!-- icon area end -->
                             <div class="counter-inner">
@@ -328,7 +329,7 @@
                         <div class="single-experties">
                             <!-- icon area start -->
                             <div class="icon-area">
-                                <img src="assets/images/fun-facts/icon/12.png" alt="icon">
+                                <img src="assets/images/fun-facts/icon/13.png" alt="icon">
                             </div>
                             <!-- icon area end -->
                             <div class="counter-inner">
@@ -341,7 +342,7 @@
                         <div class="single-experties">
                             <!-- icon area start -->
                             <div class="icon-area">
-                                <img src="assets/images/fun-facts/icon/13.png" alt="icon">
+                                <img src="assets/images/fun-facts/icon/12.png" alt="icon">
                             </div>
                             <!-- icon area end -->
                             <div class="counter-inner">
@@ -358,8 +359,8 @@
                             </div>
                             <!-- icon area end -->
                             <div class="counter-inner">
-                                <h2 class="title plus"><span class="counter plus">153</span></h2>
-                                <span class="sub"> Tons Of Harvest</span>
+                                <h2 class="title plus"><span class="counter plus">5534</span></h2>
+                                <span class="sub"> Tons Of Tanks</span>
                             </div>
                         </div>
                         <!-- rts single experties end -->

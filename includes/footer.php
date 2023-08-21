@@ -104,9 +104,9 @@
                                         <i class="fa-sharp fa-solid fa-right"></i>
                                         Other Services
                                     </a>
-                                    <a href="other-services.php#rail" class="single <?php if ($page == 'rail') { echo 'current'; } ?> ">
+                                    <a href="HSSE-sustainability.php" class="single <?php if ($page == 'rail') { echo 'current'; } ?> ">
                                         <i class="fa-sharp fa-solid fa-right"></i>
-                                       Rail
+                                        Sustainability
                                     </a>
                                     <a href="storage.php" class="single <?php if ($page == 'storage') { echo 'current'; } ?>">
                                         <i class="fa-sharp fa-solid fa-right"></i>
@@ -127,7 +127,7 @@
                                             <i class="fa-sharp fa-solid fa-phone"></i>
                                         </div>
                                         <a href="#" class="number">
-                                            +254 (98) 2156 213
+                                        +971 9 678 4403
                                         </a>
                                     </div>
                                     <div class="single">
@@ -135,7 +135,7 @@
                                             <i class="fa-sharp fa-solid fa-phone"></i>
                                         </div>
                                         <a href="#" class="number">
-                                            +254 (98) 2156 213
+                                        +971 9 678 4403
                                         </a>
                                     </div>
                                     <div class="single">
@@ -143,7 +143,7 @@
                                             <i class="fa-sharp fa-regular fa-envelope"></i>
                                         </div>
                                         <a href="#" class="number">
-                                            info@elevate.com
+                                        info@gpschemo2.com,
                                         </a>
                                     </div>
                                     <div class="single">
@@ -151,8 +151,8 @@
                                             <i class="fa-light fa-location-dot"></i>
                                         </div>
                                         <a href="#" class="number mt-dec">
-                                            25 Helano, 145 City Road <br>
-                                            New Town DD14, USA
+                                        Korfakhan road - Fujairah <br>
+                                             - United Arab Emirates
                                         </a>
                                     </div>
                                 </div>

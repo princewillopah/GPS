@@ -60,7 +60,7 @@
  
                                     <div class="col-lg-3 col-md-6">
                                         <div class="blog-single-two-wrapper shop">
-                                            </div> 
+                                           
                                             <div class="inner">
                                                 <a href="HSSE-security.php">
                                                     <h5 class="title"> Security</h5>
@@ -68,6 +68,7 @@
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="col-lg-3 col-md-6">
                                         <div class="blog-single-two-wrapper shop">
                                             <div class="inner">
